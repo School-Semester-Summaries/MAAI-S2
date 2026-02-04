@@ -1,4 +1,8 @@
-| datum | tijd | duur | taak | detail | leeruitkomst |
-|-------|------|------|------|--------|--------------|
-| 4 Februari 2026 | 13:30 - 16:30 | 3 uur | Kennismaking Finance-lab | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./notules), [aantekeningen Onderzoeksplan](./notules)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./presentaties)). | A1 |
+<div style="overflow-x: auto;">
+  
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./notules), [aantekeningen Onderzoeksplan](./notules)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./presentaties)). |
+| 4 Feb 2025 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
 
+</div>
