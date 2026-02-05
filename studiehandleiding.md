@@ -1,20 +1,3 @@
-```
-1
-```
-#### §
-
-**Master Applied Artificial Intelligence**
-
-**Studiehandleiding Semester 2**
-
-```
-© 2026 Copyright Amsterdam University of Applied Sciences
-Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd
-gegevensbestand, of openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, mechanisch, door print-
-outs, kopieën, of op welke manier dan ook, zonder voorafgaande schriftelijke toestemming van de Hogeschool
-Amsterdam.
-```
-
 ## Inhoudsopgave
 
       -
@@ -112,21 +95,9 @@ beschreven in **paragraaf 5.3 Herkansing en Afronding afstuderen**.
 
 Het tweede semester bestaat uit de volgende onderdelen:
 
-```
-Blok 3 Blok 4
-```
-- Afstudeeronderzoek in het AAI-lab
-    o Verdiepingskennis binnen het AAI-
-       lab
-    o Onderzoeksplan
-- Methoden en technieken 3
-    o Recommender systems
-    o Reinforcement learning
-- Coaching
-- Expert workshops
-    - Afstudeeronderzoek in het AAI-lab
-    - Coaching
-    - Expert workshops
+| Blok 3 | Blok 4 |
+|-|-|
+|- Afstudeeronderzoek in het AAI-lab<br>    o Verdiepingskennis binnen het AAI-lab<br>    o Onderzoeksplan<br>- Methoden en technieken 3<br>    o Recommender systems<br>    o Reinforcement learning<br>- Coaching<br>- Expert workshops | - Afstudeeronderzoek in het AAI-lab<br>- Coaching<br>- Expert workshops|
 
 
 5
