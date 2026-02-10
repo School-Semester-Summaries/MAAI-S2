@@ -2,7 +2,7 @@
   
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./notules), [aantekeningen Onderzoeksplan](./notules)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./presentaties)). |
+| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie), [aantekeningen Onderzoeksplan](./informatie)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie)). |
 | 4 Feb 2026 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
 | 5 Feb 2026 | 15:30-16:30 | 1u | Studiehandleiding doornemen | - | Studiehandleiding doorgenomen en deze toegevoegd aan mijn GitHub repo |
 | 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | - | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
@@ -10,4 +10,8 @@
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
 | 7 Feb 2026 | 14:30-16:00 | 90m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
+
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| 10 Feb 2026 | 11:45-12:30 | 45m | Informatiebronnen verzamelen | - | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
 </div>
