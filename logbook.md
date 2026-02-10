@@ -1,5 +1,6 @@
 <div style="overflow-x: auto;">
-  
+
+Week 1: 8u
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie), [aantekeningen Onderzoeksplan](./informatie)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie)). |
@@ -10,7 +11,7 @@
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
 | 7 Feb 2026 | 14:30-16:00 | 90m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
-
+Week 2:
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 10 Feb 2026 | 11:45-12:30 | 45m | Informatiebronnen verzamelen | - | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
