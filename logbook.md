@@ -16,4 +16,5 @@ Week 2:
 |-------|------|------|------|--------------|--------|
 | 10 Feb 2026 | 11:45-12:30 | 45m | Domein specifieke informatiebronnen verzamelen | - | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
 | 10 Feb 2026 | 12:45-13:45 | 1u | Voorbereiding voor Literatuurverkenning | D2 | Geavanceerde zoeklicht module herhalen. Alle gegeven literatuur op een rijtje zetten. | 
+| 10 Feb 2026 | 15:15-? | ? | Literatuurverkenning | D2 | ? |
 </div>
