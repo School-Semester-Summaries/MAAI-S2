@@ -6,7 +6,7 @@ Week 1: 8u
 | 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie), [aantekeningen Onderzoeksplan](./informatie)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie)). |
 | 4 Feb 2026 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
 | 5 Feb 2026 | 15:30-16:30 | 1u | Studiehandleiding doornemen | - | Studiehandleiding doorgenomen en deze toegevoegd aan mijn GitHub repo |
-| 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | - | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
+| 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | D2 | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
 | 7 Feb 2026 | 12:45-13:45 | 1u | Zoeklicht Basis modules + toets | D2 | Modules van zoeklicht basis gevolgd. Ook de toets gemaakt van zoeklicht basis. Daarvoor een 3.1 gehaald |
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
 | 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
