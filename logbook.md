@@ -19,5 +19,5 @@ Week 2:
 | 10 Feb 2026 | 15:15-16:00 | 45m | Literatuurverkenning | A1, D2 | Onderzocht wat "Money Laundering" is en gezocht naar datasets. Drie datasets gevonden, alles gedocumenteerd in een bestand wat uiteindelijk mijn presentatie gaat worden. |
 | 11 Feb 2026 | 10:00-10:30 | 30m | Literatuurverkenning | A1, D2 | Alle gegeven bronnen bekeken en beoordeeld op bruikbaarheid |
 | 11 Feb 2026 | 11:00-12:00 | 1u | Presentatie gemaakt | D2 | Literatuurverkenning verwerkt in een presentatie |
-| 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
+| 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 </div>
