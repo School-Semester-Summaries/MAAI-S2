@@ -9,7 +9,7 @@ Week 1: 8u
 | 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | - | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
 | 7 Feb 2026 | 12:45-13:45 | 1u | Zoeklicht Basis modules + toets | D2 | Modules van zoeklicht basis gevolgd. Ook de toets gemaakt van zoeklicht basis. Daarvoor een 3.1 gehaald |
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
-| 7 Feb 2026 | 14:30-16:00 | 90m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
+| 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
 Week 2:
 | datum | tijd | duur | taak | leeruitkomst | detail |
@@ -19,4 +19,5 @@ Week 2:
 | 10 Feb 2026 | 15:15-16:00 | 45m | Literatuurverkenning | A1, D2 | Onderzocht wat "Money Laundering" is en gezocht naar datasets. Drie datasets gevonden, alles gedocumenteerd in een bestand wat uiteindelijk mijn presentatie gaat worden. |
 | 11 Feb 2026 | 10:00-10:30 | 30m | Literatuurverkenning | A1, D2 | Alle gegeven bronnen bekeken en beoordeeld op bruikbaarheid |
 | 11 Feb 2026 | 11:00-12:00 | 1u | Presentatie gemaakt | D2 | Literatuurverkenning verwerkt in een presentatie |
+| 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 </div>
