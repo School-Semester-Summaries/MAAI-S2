@@ -18,4 +18,5 @@ Week 2:
 | 10 Feb 2026 | 12:45-13:45 | 1u | Voorbereiding voor Literatuurverkenning | D2 | Geavanceerde zoeklicht module herhalen. Alle gegeven literatuur op een rijtje zetten. | 
 | 10 Feb 2026 | 15:15-16:00 | 45m | Literatuurverkenning | A1, D2 | Onderzocht wat "Money Laundering" is en gezocht naar datasets. Drie datasets gevonden, alles gedocumenteerd in een bestand wat uiteindelijk mijn presentatie gaat worden. |
 | 11 Feb 2026 | 10:00-10:30 | 30m | Literatuurverkenning | A1, D2 | Alle gegeven bronnen bekeken en beoordeeld op bruikbaarheid |
+| 11 Feb 2026 | 11:00-12:00 | 1u | Presentatie gemaakt | D2 | Literatuurverkenning verwerkt in een presentatie |
 </div>
