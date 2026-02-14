@@ -22,5 +22,6 @@ Week 2: 9u30m
 | 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 | 14 Feb 2026 | 17:30-18:15 | 45m | Relevante Literatuur Zoeken | D2 | Zoeken naar nieuwe literatuur die relevant is op mijn nieuwe topic, "Enhancing money laundering using RL". |
 | 14 Feb 2026 | 18:30-19:15 | 45m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
-| 14 Feb 2026 | 22:15-22:45 | 30m | Eerste Versie Hoofdvraag en Deelvragen | D2 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. |
+| 14 Feb 2026 | 22:15-22:45 | 30m | Eerste versie Hoofdvraag en Deelvragen opgesteld | D2 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. |
+| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofdvraag en Deelvragen afronden | D2 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen](./Wiki/Hoofdvraag%20en%20Deelvragen.md) |  
 </div>
