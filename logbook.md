@@ -11,7 +11,7 @@ Week 1: 8u
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
 | 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
-Week 2: 9u30m
+Week 2: 11u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 10 Feb 2026 | 11:45-12:30 | 45m | Domein specifieke informatiebronnen verzamelen | A1 | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
