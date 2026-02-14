@@ -3,13 +3,13 @@
 Voor het opstellen van de hoofdvraag heb ik als basis project casus 1 gebruikt: _"Enhancing Money Laundering Detection with Semi-Supervised Learning"_. 
 Om de opdracht interessanter te maken voor mezelf, heb ik ervoor gekozen om het Semi-Supervised gedeelte te vervangen met Reinforcement Learning (RL).
 Het onderwerp is nog wel enorm breed en er ontbreekt een concrete onderzoeksvraag. Om het op een vragende manier neer te zetten, wil ik onderzoeken of RL betere resultaten kan behalden dan supervised, unsupervised of semi-supervised learning approaches. 
-Aangezien vandaagderdag de meeste money laundering detection modellen Supervised zijn (Oyewale Oyedokun, 2024) (Alhanouf Abdulrahman Saleh Alsuwailem, 2020), lijkt me het meest relevant om te onderzoeken of RL ingezet kan worden om betere resultaten te behalen dan Supervised modellen. 
+Aangezien vandaagderdag de meeste money laundering detection modellen Supervised zijn [[1]](#1-alhanouf-abdulrahman-saleh-alsuwailem-a-k-2020-anti-money-laundering-systems-a-systematic-literature-review-proquest-17) [[2]](#2-oyewale-oyedokun-s-e-2024-11-12-a-comprehensive-review-of-machine-learning-ijerd-14-opgehaald-van-httpswwwijerdcompapervol20-issue112011730743pdf), lijkt me het meest relevant om te onderzoeken of RL ingezet kan worden om betere resultaten te behalen dan Supervised modellen. 
 Hieruit ontstaat mijn onderzoeksvraag: 
 
 > Draft 1: _“Can reinforcement learning improve money laundering detection compared to supervised learning approaches?”_
 
 Deze onderzoeksvraag is niet op te delen in deelvragen en kan enkel beantwoord worden met een “ja” of “nee”. 
-Het feit dat de vraag beantwoord kan worden met een “ja” of “nee” duidt aan dat de vraag niet open genoeg is _“een goede hoofdvraag is een open vraag en geen ja/nee vraag”_ (Amsterdam, n.d.). 
+Het feit dat de vraag beantwoord kan worden met een “ja” of “nee” duidt aan dat de vraag niet open genoeg is _“een goede hoofdvraag is een open vraag en geen ja/nee vraag”_ [[3]](#3-amsterdam-h-v-sd-zoeklicht-gevorderd-opgehaald-van-dlo). 
 
 > Draft 2: _“Can reinforcement learning improve money laundering detection compared to leading supervised learning approaches?”_
 
@@ -31,8 +31,8 @@ Om deze deelvragen te beantwoorden ga ik relevante literatuur zoeken per deelvra
 
 ## Bibliography
 ##### 1. Alhanouf Abdulrahman Saleh Alsuwailem, A. K. (2020). Anti-money laundering systems: a systematic literature review. ProQuest, 17.
-##### 2. Amsterdam, H. v. (sd). Zoeklicht Gevorderd. Opgehaald van DLO.
-##### 3. Oyewale Oyedokun, S. E. (2024, 11 12). A Comprehensive Review of Machine Learning. Ijerd, 14. Opgehaald van https://www.ijerd.com/paper/vol20-issue11/2011730743.pdf
+##### 2. Oyewale Oyedokun, S. E. (2024, 11 12). A Comprehensive Review of Machine Learning. Ijerd, 14. Opgehaald van https://www.ijerd.com/paper/vol20-issue11/2011730743.pdf
+##### 3. Amsterdam, H. v. (sd). Zoeklicht Gevorderd. Opgehaald van DLO.
 
 
 
