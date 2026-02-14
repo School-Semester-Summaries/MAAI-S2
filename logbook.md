@@ -21,5 +21,5 @@ Week 2:
 | 11 Feb 2026 | 11:00-12:00 | 1u | Presentatie gemaakt | D2 | Literatuurverkenning verwerkt in een presentatie |
 | 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 | 14 Feb 2026 | 17:30-18:15 | 45m | Relevante Literatuur Zoeken | D2 | Zoeken naar nieuwe literatuur die relevant is op mijn nieuwe topic, "Enhancing money laundering using RL". |
-| 14 Feb 2026 | 18:30-19:15 | 45m | Hoofdvraag en Deelvragen opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
+| 14 Feb 2026 | 18:30-19:15 | 45m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
 </div>
