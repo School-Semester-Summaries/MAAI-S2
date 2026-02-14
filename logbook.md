@@ -11,7 +11,7 @@ Week 1: 8u
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
 | 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
-Week 2:
+Week 2: 9u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 10 Feb 2026 | 11:45-12:30 | 45m | Domein specifieke informatiebronnen verzamelen | A1 | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
@@ -22,4 +22,5 @@ Week 2:
 | 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 | 14 Feb 2026 | 17:30-18:15 | 45m | Relevante Literatuur Zoeken | D2 | Zoeken naar nieuwe literatuur die relevant is op mijn nieuwe topic, "Enhancing money laundering using RL". |
 | 14 Feb 2026 | 18:30-19:15 | 45m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
+| 14 Feb 2026 | 22:15-22:45 | 30m | Eerste Versie Hoofdvraag en Deelvragen | D2 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. |
 </div>
