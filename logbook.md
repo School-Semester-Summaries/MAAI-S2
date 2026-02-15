@@ -11,7 +11,7 @@ Week 1: 8u
 | 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
 | 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
-Week 2: 11u15m
+Week 2: 12u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 10 Feb 2026 | 11:45-12:30 | 45m | Domein specifieke informatiebronnen verzamelen | A1 | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
@@ -24,5 +24,6 @@ Week 2: 11u15m
 | 14 Feb 2026 | 18:30-18:45 | 15m | Planning maken | D2 | Even alles op een rijtje zetten wat ik uberhaupt moet doen voor volgende week woensdag. Heb nu op de planning staan dat ik de volgende dingen af moet hebben: Probleem, Context, Bestaand Werk, Gat in de Kennis, Dataset Kiezen, Techniek Kiezen en Hoofd- en Deelvragen opstellen.  |
 | 14 Feb 2026 | 18:45-19:15 | 30m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
 | 14 Feb 2026 | 22:15-22:45 | 30m | Hoofd- en Deelvragen opstellen | D2 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. [Hoofdvraagn en Deelvragen versie 1](./Wiki/Hoofdvraag_en_Deelvragen_v1.md) |  
-| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvraag_en_Deelvragen_v2.md) |  
+| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvraag_en_Deelvragen_v2.md) | 
+| 15 Feb 2026 | 16:15-17:15 | 1u | Context Schrijven | A1 | Onderzoek doen naar wat "Money Laundering" inhoud. Context is ongeveer 20-25% klaar |
 </div>
