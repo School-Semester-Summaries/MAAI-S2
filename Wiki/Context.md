@@ -26,11 +26,11 @@ Prior literature shows that a wide range of machine learning approaches have bee
 
 Little research has been conducted on reinforcement learning in AML. Typically, reinforcement learning requires an environment that an agent can interact with, which is not naturally present in AML settings. Instead, AML research mostly relies on synthetic datasets rather than interactive environments. However, with creative engineering, it is possible to simulate an environment that allows an agent to interact with the data, making reinforcement learning a potentially interesting direction for further research.
 
-Bibliography
-###### 1. FIU-the Netherlands. (2023). What is money laundering? Retrieved from FIU-Nederland: https://www.fiu-nederland.nl/en/home/what-is-money-laundering/
-###### 2. Financial Crimes Enforcement Network. (n.d.). What is money laundering? Retrieved from FinCEN.gov: https://www.fincen.gov/what-money-laundering
-###### 3. Cox, D. (2012). Handbook of Anti-Money Laundering. In D. Cox, Handbook of Anti-Money Laundering (pp. 5-13). John Wiley & Sons.
-###### 4. Weber, M. (2018). Scalable Graph Learning for Anti-Money Laundering: A First Look. 
-###### 5. Nazanin Bakhshinejad, R. S. (2022). A Survey of Machine Learning Based Anti-Money Laundering. 
+## Bibliography
+#### 1. FIU-the Netherlands. (2023). What is money laundering? Retrieved from FIU-Nederland: https://www.fiu-nederland.nl/en/home/what-is-money-laundering/
+#### 2. Financial Crimes Enforcement Network. (n.d.). What is money laundering? Retrieved from FinCEN.gov: https://www.fincen.gov/what-money-laundering
+#### 3. Cox, D. (2012). Handbook of Anti-Money Laundering. In D. Cox, Handbook of Anti-Money Laundering (pp. 5-13). John Wiley & Sons.
+#### 4. Weber, M. (2018). Scalable Graph Learning for Anti-Money Laundering: A First Look. 
+#### 5. Nazanin Bakhshinejad, R. S. (2022). A Survey of Machine Learning Based Anti-Money Laundering. 
 
 
