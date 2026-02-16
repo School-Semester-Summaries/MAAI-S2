@@ -25,11 +25,12 @@ Week 2: 12u15m
 | 14 Feb 2026 | 18:45-19:15 | 30m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
 | 14 Feb 2026 | 22:15-22:45 | 30m | Hoofd- en Deelvragen opstellen | D2 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. [Hoofdvraagn en Deelvragen versie 1](./Wiki/Hoofdvraag_en_Deelvragen_v1.md) |  
 | 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvraag_en_Deelvragen_v2.md) | 
-| 15 Feb 2026 | 16:15-17:15 | 1u | Context: "Money Laundering" Schrijven | A1 | Onderzoek doen naar wat "Money Laundering" inhoud. Context is ongeveer 20-25% klaar |
+| 15 Feb 2026 | 16:15-17:15 | 1u | Start on Context | A1 | Onderzoek doen naar wat "Money Laundering" inhoud. Context is ongeveer 20-25% klaar |
 
 Week 3: 3u
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 16 Feb 2026 | 13:30-15:15 | 1u45m | Context: Update "Money Laundering" | A1 | Het proces van placement, layering en integration uitgebreider uitgelegd. Context is ongeveer 25% klaar |
-| 16 Feb 2026 | 16:00-17:15 | 1u15m | Context: Added "Money Laundering Detection" and "Limitations of Traditional AML Methods" | A1 | Wrote "Money Laundering Detection" and "Limitations of Traditional AML Methods" supported with sources. Context is about 70% done |
+| 16 Feb 2026 | 13:30-15:15 | 1u45m | Update Context | A1 | Kopje "Money Laundering" geüpdate. Het proces van placement, layering en integration uitgebreider uitgelegd. Context is ongeveer 25% klaar |
+| 16 Feb 2026 | 16:00-17:15 | 1u15m | Update Context | A1 | Wrote "Money Laundering Detection" and "Limitations of Traditional AML Methods" supported with sources. Context is about 70% done |
+| 16 Feb 2026 | 19:15-xx | ? | Finalize Context | A1 | Wrote "Machine Learning in AML" with sources. First draft of context is done |
 </div>
