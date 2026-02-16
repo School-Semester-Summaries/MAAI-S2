@@ -30,9 +30,9 @@ Dit roept de volgende deelvragen op.
 Om deze deelvragen te beantwoorden ga ik relevante literatuur zoeken per deelvraag.
 
 ## Bibliography
-##### 1. Alhanouf Abdulrahman Saleh Alsuwailem, A. K. (2020). Anti-money laundering systems: a systematic literature review. ProQuest, 17.
-##### 2. Oyewale Oyedokun, S. E. (2024, 11 12). A Comprehensive Review of Machine Learning. Ijerd, 14. Opgehaald van https://www.ijerd.com/paper/vol20-issue11/2011730743.pdf
-##### 3. Amsterdam, H. v. (sd). Zoeklicht Gevorderd. Opgehaald van DLO.
+###### 1. Alhanouf Abdulrahman Saleh Alsuwailem, A. K. (2020). Anti-money laundering systems: a systematic literature review. ProQuest, 17.
+###### 2. Oyewale Oyedokun, S. E. (2024, 11 12). A Comprehensive Review of Machine Learning. Ijerd, 14. Opgehaald van https://www.ijerd.com/paper/vol20-issue11/2011730743.pdf
+###### 3. Amsterdam, H. v. (sd). Zoeklicht Gevorderd. Opgehaald van DLO.
 
 
 
