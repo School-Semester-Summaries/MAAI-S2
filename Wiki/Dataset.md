@@ -10,4 +10,4 @@ There is one dataset that I found which has an is_fraud column. However, this da
 #### 3. SAML-D Dataset - https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml
 #### 4. Money Laundering Data - https://www.kaggle.com/datasets/maryam1212/money-laundering-data/data
 #### 5. AMLSim - https://knowledge.iadb.org/en/knowledge-resources/code-development/open-source-solution/amlsim?utm_source=chatgpt.com
-#### 6. AMLGentex - https://github.com/aidotse/AMLGentex?utm_source=chatgpt.com
+#### 6. AMLGentex - https://github.com/aidotse/AMLGentex
