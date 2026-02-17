@@ -33,5 +33,5 @@ Week 3: 5u30m
 | 16 Feb 2026 | 13:30-15:15 | 1u45m | Update Context | A1 | Kopje "Money Laundering" geüpdate. Het proces van placement, layering en integration uitgebreider uitgelegd. Context is ongeveer 25% klaar |
 | 16 Feb 2026 | 16:00-17:15 | 1u15m | Update Context | A1 | Wrote "Money Laundering Detection" and "Limitations of Traditional AML Methods" supported with sources. Context is about 70% done |
 | 16 Feb 2026 | 19:15-21:15 | 2u | Finalize Context | A1 | Wrote "Machine Learning in AML" with sources. First draft of context is done. [Context](./Wiki/Context.md) |
-| 17 Feb 2026 | 15:30-16:00 | 30m | Choose Dataset | B1 | Look at all the datasets I collected during my literature review and came to the conclusion it's best if I generate my own dataset. [Dataset](./Wiki/Dataset.md) |
+| 17 Feb 2026 | 15:30-16:15 | 30m | Choose Dataset | B1 | Look at all the datasets I collected during my literature review and came to the conclusion it's best if I generate my own dataset. [Dataset](./Wiki/Dataset.md) |
 </div>
