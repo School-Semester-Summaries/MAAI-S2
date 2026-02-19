@@ -36,6 +36,6 @@ Week 3: 9u45m
 | 17 Feb 2026 | 15:30-16:15 | 45m | Choose Dataset | B1 | Look at all the datasets I collected during my literature review and came to the conclusion it's best if I generate my own dataset. [Dataset](./Wiki/Dataset.md) |
 | 18 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 3 | D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Presentatie_Status_Update.pptx)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Aantekeningen_Status_Update.md)) |
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
-| 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie](./informatie/feedback_presentatie_status_update_hva.md)), M&T les bijgewoond. |
+| 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
 
 </div>
