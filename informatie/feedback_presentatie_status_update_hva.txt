@@ -1,0 +1,6 @@
+- hoofdvraag kan scherper, misschien veranderen over een maandje
+- deelvraag 2 ff fixen
+- deelvraag 1 kan binnekort al beantwoord worden en toegepast worden op de hoofdvraag
+- doe zo snel mogelijk het probleem uitzoeken
+- wees kritisch over de datasets. waar is de synthetische data op gebasseerd.
+- misschien een connect voor stakeholders?
