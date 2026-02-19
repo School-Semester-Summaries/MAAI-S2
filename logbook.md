@@ -3,7 +3,7 @@
 Week 1: 8u
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie), [aantekeningen Onderzoeksplan](./informatie)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie)). |
+| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab, Stagedag 1 | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie), [aantekeningen Onderzoeksplan](./informatie)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie)). |
 | 4 Feb 2026 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
 | 5 Feb 2026 | 15:30-16:30 | 1u | Studiehandleiding doornemen | - | Studiehandleiding doorgenomen en deze toegevoegd aan mijn GitHub repo |
 | 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | D2 | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
@@ -19,7 +19,7 @@ Week 2: 12u15m
 | 10 Feb 2026 | 15:15-16:00 | 45m | Literatuurverkenning | A1, D2 | Onderzocht wat "Money Laundering" is en gezocht naar datasets. Drie datasets gevonden, alles gedocumenteerd in een bestand wat uiteindelijk mijn presentatie gaat worden. |
 | 11 Feb 2026 | 10:00-10:30 | 30m | Literatuurverkenning | A1, D2 | Alle gegeven bronnen bekeken en beoordeeld op bruikbaarheid |
 | 11 Feb 2026 | 11:00-12:00 | 1u | Presentatie gemaakt | D2 | Literatuurverkenning verwerkt in een presentatie |
-| 11 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
+| 11 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 | 14 Feb 2026 | 17:30-18:15 | 45m | Relevante Literatuur Zoeken | D2 | Zoeken naar nieuwe literatuur die relevant is op mijn nieuwe topic, "Enhancing money laundering using RL". |
 | 14 Feb 2026 | 18:30-18:45 | 15m | Planning maken | D2 | Even alles op een rijtje zetten wat ik uberhaupt moet doen voor volgende week woensdag. Heb nu op de planning staan dat ik de volgende dingen af moet hebben: Probleem, Context, Bestaand Werk, Gat in de Kennis, Dataset Kiezen, Techniek Kiezen en Hoofd- en Deelvragen opstellen.  |
 | 14 Feb 2026 | 18:45-19:15 | 30m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
@@ -34,6 +34,8 @@ Week 3: 9u45m
 | 16 Feb 2026 | 16:00-17:15 | 1u15m | Update Context | A1 | Wrote "Money Laundering Detection" and "Limitations of Traditional AML Methods" supported with sources. Context is about 70% done |
 | 16 Feb 2026 | 19:15-21:15 | 2u | Finalize Context | A1 | Wrote "Machine Learning in AML" with sources. First draft of context is done. [Context](./Wiki/Context.md) |
 | 17 Feb 2026 | 15:30-16:15 | 45m | Choose Dataset | B1 | Look at all the datasets I collected during my literature review and came to the conclusion it's best if I generate my own dataset. [Dataset](./Wiki/Dataset.md) |
-| 18 Feb 2026 | 13:30-17:00 | 3u30m | Schooldag 3 | D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Presentatie_Status_Update.pptx)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Aantekeningen_Status_Update.md)) |
+| 18 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 3 | D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Presentatie_Status_Update.pptx)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Aantekeningen_Status_Update.md)) |
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
+| 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie](./informatie/feedback_presentatie_status_update_hva.md)), M&T les bijgewoond. |
+
 </div>
