@@ -38,4 +38,9 @@ Week 3: 14u30m
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
 | 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
 
+Week 3: 2u30m
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| 25 Feb 2026 | 14:00-16:30 | 2u30m | Work on M&T | - | Boek van Falk gelezen tot 1.4.2. Suprise library werkend gekregen, environment voor m&t-3a voorbereid. |
+
 </div>
