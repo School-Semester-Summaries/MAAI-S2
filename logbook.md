@@ -38,10 +38,11 @@ Week 3: 14u30m
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
 | 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
 
-Week 3: 4u30m
+Week 3: 6u0m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 25 Feb 2026 | 14:00-16:30 | 2u30m | Work on M&T-3a | - | Boek van Falk gelezen tot 1.4.2. Suprise library werkend gekregen, environment voor m&t-3a voorbereid. |
 | 27 Feb 2026 | 12:00-12:45 | 45m | Work on M&T-3a | B1, B2 | Met behulp van het boek van Falk een passende techniek (Collaborative Filtering) kunnen kiezen voor opdracht 3a. Deze keuze is voornamelijk gebasseerd op de gegeven dataset. | 
 | 27 Feb 2026 | 15:15-16:30 | 1u15m | Work on M&T-3a | B1, B2 | Split the dataset into 80/10/10. Idea for baseline model |
+| 27 Feb 2026 | 22:00-23:30 | 1u30m | Work on M&T-3a | B1, B2 | Dataset gevonden. Ik zou inprinciepe nu content-based en hybrid approach kunnen toepassen maar ik negeer de dataset voor nu om zo de opdracht voor mezelf makkelijker te maken. Ook een evaluatie metriek kunnen kiezen |
 </div>
