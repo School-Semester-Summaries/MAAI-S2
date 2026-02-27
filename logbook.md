@@ -43,4 +43,5 @@ Week 3: 3u15m
 |-------|------|------|------|--------------|--------|
 | 25 Feb 2026 | 14:00-16:30 | 2u30m | Work on M&T-3a | - | Boek van Falk gelezen tot 1.4.2. Suprise library werkend gekregen, environment voor m&t-3a voorbereid. |
 | 27 Feb 2026 | 12:00-12:45 | 45m | Work on M&T-3a | B1, B2 | Met behulp van het boek van Falk een passende techniek (Collaborative Filtering) kunnen kiezen voor opdracht 3a. Deze keuze is voornamelijk gebasseerd op de gegeven dataset. | 
+| 27 Feb 2026 | 15:15-16:30 | 1u15m | Work on M&T-3a | B1, B2 | Split the dataset into 80/10/10. Idea for baseline model |
 </div>
