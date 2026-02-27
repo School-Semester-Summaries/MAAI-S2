@@ -41,6 +41,6 @@ Week 3: 14u30m
 Week 3: 2u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 25 Feb 2026 | 14:00-16:30 | 2u30m | Work on M&T | - | Boek van Falk gelezen tot 1.4.2. Suprise library werkend gekregen, environment voor m&t-3a voorbereid. |
-
+| 25 Feb 2026 | 14:00-16:30 | 2u30m | Work on M&T-3a | - | Boek van Falk gelezen tot 1.4.2. Suprise library werkend gekregen, environment voor m&t-3a voorbereid. |
+| 27 Feb 2026 | 12:00-12:45 | 45m | Work on M&T-3a | B1, B2 | Met behulp van het boek van Falk een passende techniek (Collaborative Filtering) kunnen kiezen voor opdracht 3a. Deze keuze is voornamelijk gebasseerd op de gegeven dataset. | 
 </div>
