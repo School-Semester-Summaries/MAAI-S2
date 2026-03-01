@@ -47,4 +47,5 @@ Week 3: 8u15m
 | 27 Feb 2026 | 22:00-23:30 | 1u30m | Work on M&T-3a | B1, B2, C2 | Dataset gevonden. Ik zou inprinciepe nu content-based en hybrid approach kunnen toepassen maar ik negeer de dataset voor nu om zo de opdracht voor mezelf makkelijker te maken. Ook een evaluatie metriek kunnen kiezen |
 | 27 Feb 2026 | 19:00-20:00 | 1u | Work on M&T-3a | A2, B1, B2, B3, C2 | Baselinemodel gerund en geëvalueerd. Ook requirements opgesteld voor zover mogelijk |
 | 1 Mar 2026 | 10:45-12:00 | 1u15m | Work on M&T-3a | B1, B2, B3 | Het verbeterde model aan het trainen. Duurt ontzettend lang |
+| 1 Mar 2026 | 12:00-14:45 | 2u45m | Work on M&T-3a | B3 | Model trainen in background |
 </div>
