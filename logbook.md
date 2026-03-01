@@ -38,7 +38,7 @@ Week 3: 14u30m
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
 | 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
 
-Week 3: 8u15m
+Week 3: 11u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 25 Feb 2026 | 14:00-16:30 | 2u30m | Work on M&T-3a | - | Boek van Falk gelezen tot 1.4.2. Suprise library werkend gekregen, environment voor m&t-3a voorbereid. |
@@ -46,6 +46,5 @@ Week 3: 8u15m
 | 27 Feb 2026 | 15:15-16:30 | 1u15m | Work on M&T-3a | B1, B2 | Split the dataset into 80/10/10. Idea for baseline model |
 | 27 Feb 2026 | 22:00-23:30 | 1u30m | Work on M&T-3a | B1, B2, C2 | Dataset gevonden. Ik zou inprinciepe nu content-based en hybrid approach kunnen toepassen maar ik negeer de dataset voor nu om zo de opdracht voor mezelf makkelijker te maken. Ook een evaluatie metriek kunnen kiezen |
 | 27 Feb 2026 | 19:00-20:00 | 1u | Work on M&T-3a | A2, B1, B2, B3, C2 | Baselinemodel gerund en geëvalueerd. Ook requirements opgesteld voor zover mogelijk |
-| 1 Mar 2026 | 10:45-12:00 | 1u15m | Work on M&T-3a | B1, B2, B3 | Het verbeterde model aan het trainen. Duurt ontzettend lang |
-| 1 Mar 2026 | 12:00-14:45 | 2u45m | Work on M&T-3a | B3 | Model trainen in background |
+| 1 Mar 2026 | 10:45-15:00 | 4u15m | Work on M&T-3a | B1, B2, B3, C2 | Het verbeterde model aan het trainen en nog evalueren. mijn model is echt verschrikkelijk nog slechter dan baseline. Ff kijken wat ik ga doen misschien laat ik het hier wel bij |
 </div>
