@@ -48,9 +48,9 @@ Week 3: 11u15m
 | 27 Feb 2026 | 19:00-20:00 | 1u | Work on M&T-3a | A2, B1, B2, B3, C2 | Baselinemodel gerund en geëvalueerd. Ook requirements opgesteld voor zover mogelijk |
 | 1 Mar 2026 | 10:45-15:00 | 4u15m | Work on M&T-3a | B1, B2, B3, C2 | Het verbeterde model aan het trainen en nog evalueren. mijn model is echt verschrikkelijk nog slechter dan baseline. Ff kijken wat ik ga doen misschien laat ik het hier wel bij |
 
-Week 4: 0u30m
+Week 4: 0u45m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 2 Mar 2026 | 13:45-14:15 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Amber, Savannah en Isabel de opdracht overlegt |
-| 2 Mar 2026 | 14:30-14:45 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Terrence de opdracht overlegt |
+| 2 Mar 2026 | 14:30-14:45 | 15m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Terrence de opdracht overlegt |
 </div>
