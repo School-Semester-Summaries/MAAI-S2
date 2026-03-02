@@ -52,4 +52,5 @@ Week 4: 0u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 2 Mar 2026 | 13:45-14:15 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Amber, Savannah en Isabel de opdracht overlegt |
+| 2 Mar 2026 | 14:30-14:45 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Terrence de opdracht overlegt |
 </div>
