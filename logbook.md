@@ -54,4 +54,5 @@ Week 4: 12u45m
 | 2 Mar 2026 | 13:45-14:15 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Amber, Savannah en Isabel de opdracht overlegt |
 | 2 Mar 2026 | 14:30-14:45 | 15m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Terrence de opdracht overlegt |
 | 2 Mar 2026 | 14:45-02:45 | 12u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Gewerkt aan de opdracht in het bijzijn van Terence, om de paar uur war overlegt en gespard over de opdracht, thuis nog doorgewerkt en opdracht helemaal afgemaakt |
+| 3 Mar 2026 | 14:00-15:00 | 1u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Door mijn opdracht gelezen, kleine foutjes eruit gehaald. 2de en gelijk laatste versie van m&t ingeleverd | 
 </div>
