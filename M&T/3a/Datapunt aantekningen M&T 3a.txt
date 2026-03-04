@@ -1,0 +1,13 @@
+Datapunt aantekningen
+- Must: Les 1 t/m Les 4
+- Optioneel: Les 5 en 6 (5 alleen voor content based)
+- het doel: een RS bouwen dat voor elke willekeurige gebruiker 3 films aanbeveelt, probeer de aanbevelingen zo persoonlijk mogelijk te maken.
+- iedereen 3 willekeurige films baseline -> Ja (de populairste? de hoogstwaardeerde?)
+- iteraties zijn toegestaan maar optioneel. Een iteratie is voldoende.
+- opzoeken naar hoe je kunt evalueren
+- voor CV evt. kijken naar DLP, wanneer wel of niet
+- is het boek voldoende -> zeker 100%
+- gebruik suprise library als het lukt, misschien heeft lenskit ook een module. Gebruik iets dat al bestaat
+- je mag ook zelf coderen, of eventueel code kopieren van het boek.
+- als je ergens naar verwijst stop het er dan in
+- buiten het nulmodel om, is het voldoende om één iteratie uit te voeren, zolang je verbeter punten geeft aan het eind. Verbeter punten kunnen geïnterepreteerd worden als een iteratie.
