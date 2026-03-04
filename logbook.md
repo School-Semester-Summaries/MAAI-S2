@@ -48,7 +48,7 @@ Week 3: 11u15m
 | 27 Feb 2026 | 19:00-20:00 | 1u | Work on M&T-3a | A2, B1, B2, B3, C2 | Baselinemodel gerund en geëvalueerd. Ook requirements opgesteld voor zover mogelijk |
 | 1 Mar 2026 | 10:45-15:00 | 4u15m | Work on M&T-3a | B1, B2, B3, C2 | Het verbeterde model aan het trainen en nog evalueren. mijn model is echt verschrikkelijk nog slechter dan baseline. Ff kijken wat ik ga doen misschien laat ik het hier wel bij |
 
-Week 4: 15u15m
+Week 4: 18u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 2 Mar 2026 | 13:45-14:15 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Amber, Savannah en Isabel de opdracht overlegt |
@@ -56,4 +56,6 @@ Week 4: 15u15m
 | 2 Mar 2026 | 14:45-02:45 | 12u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Gewerkt aan de opdracht in het bijzijn van Terence, om de paar uur war overlegt en gespard over de opdracht, thuis nog doorgewerkt en opdracht helemaal afgemaakt |
 | 3 Mar 2026 | 14:00-15:00 | 1u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Door mijn opdracht gelezen, kleine foutjes eruit gehaald. 2de en gelijk laatste versie van m&t ingeleverd |
 | 4 Mar 2026 | 13:30-15:00 | 1u30m | Stagedag 4 | A2 | Les over Ethiek, normen, waarden en deugden |   
+| 4 Mar 2026 | 16:00-18:15 | 2u15m | Work on M&T-3a | B1, B2, B3, C2 | Predictions maken voor jochem | 
+| 4 Mar 2026 | 19:30-20:15 | 45m | Finalize M&T-3a | C2 | Laatste stijl dingetjes, conclusies, nawoord | 
 </div>
