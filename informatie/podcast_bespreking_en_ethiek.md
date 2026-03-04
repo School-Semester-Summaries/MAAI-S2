@@ -41,5 +41,5 @@ Waardeconflict
 - Rest van de wereld wil ervan af
 - > Waarde conflict
 
-
-
+Wat wil de klant in AML
+- klanten willen weten waarom zij geselecteerd zijn en willen kunnen terug tracen hoe het werkt
