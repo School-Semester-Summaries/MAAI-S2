@@ -67,5 +67,5 @@ Week 5: 1u10m
 |-------|------|------|------|--------------|--------|
 | 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | A2, B1, B2, B3, C2 | RL les 2 - Q-Learning / Deep-Q-Learning. Robert deelde informatie die ik kan toepassen op de vermelde leeruitkomsten. |
 | 9 Mar 2026 | 13:35-13:45 | 10m | Logbook Update | - | Normaal update ik het logboek na elke taak maar ik was vergeten de leeruitkomsten te vermelden bij sommige taken. |
-| 9 Mar 2026 | 13:45-? | ? | Work on PvA | D2 | Alles wat ik moet doen voor PvA op een rijtje zetten |
+| 9 Mar 2026 | 13:45-? -15m | ? | Work on PvA | D2 | Alles wat ik moet doen voor PvA op een rijtje zetten |
 </div>
