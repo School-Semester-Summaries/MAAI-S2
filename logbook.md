@@ -48,7 +48,7 @@ Week 3: 11u15m
 | 27 Feb 2026 | 19:00-20:00 | 1u | Work on M&T-3a | A2, B1, B2, B3, C2 | Baselinemodel gerund en geëvalueerd. Ook requirements opgesteld voor zover mogelijk |
 | 1 Mar 2026 | 10:45-15:00 | 4u15m | Work on M&T-3a | B1, B2, B3, C2 | Het verbeterde model aan het trainen en nog evalueren. mijn model is echt verschrikkelijk nog slechter dan baseline. Ff kijken wat ik ga doen misschien laat ik het hier wel bij |
 
-Week 4: 19u30m
+Week 4: 21u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 2 Mar 2026 | 13:45-14:15 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Amber, Savannah en Isabel de opdracht overlegt |
@@ -59,5 +59,11 @@ Week 4: 19u30m
 | 4 Mar 2026 | 16:00-18:15 | 2u15m | Work on M&T-3a | B1, B2, B3, C2 | Predictions maken voor jochem | 
 | 4 Mar 2026 | 19:30-20:15 | 45m | Finalize M&T-3a | C2 | Laatste stijl dingetjes, conclusies, nawoord | 
 | 4 Mar 2026 | 22:00-22:15 | 15m | Finalize M&T-3a | C2 | Conclusie beetje aanpassen |
+| 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning
 | 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | - | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
+
+Week 5: 1u0m
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | - | RL les 2 - Q-Learning / Deep-Q-Learning |
 </div>
