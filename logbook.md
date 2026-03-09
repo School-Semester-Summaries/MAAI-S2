@@ -19,12 +19,12 @@ Week 2: 12u15m
 | 10 Feb 2026 | 15:15-16:00 | 45m | Literatuurverkenning | A1, D2 | Onderzocht wat "Money Laundering" is en gezocht naar datasets. Drie datasets gevonden, alles gedocumenteerd in een bestand wat uiteindelijk mijn presentatie gaat worden. |
 | 11 Feb 2026 | 10:00-10:30 | 30m | Literatuurverkenning | A1, D2 | Alle gegeven bronnen bekeken en beoordeeld op bruikbaarheid |
 | 11 Feb 2026 | 11:00-12:00 | 1u | Presentatie gemaakt | D2 | Literatuurverkenning verwerkt in een presentatie |
-| 11 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 2 | D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
+| 11 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 2 | D1, D2 | Presentatie van Femke van de Kasteele bijgewoond over literatuur zoeken. Mijn zoeklogboek / oriënterende literatuurverkenning ingeleverd. Mijn presentatie gepresenteerd en de presentaties van de andere afstudeerstudenten bijgewoond. |
 | 14 Feb 2026 | 17:30-18:15 | 45m | Relevante Literatuur Zoeken | D2 | Zoeken naar nieuwe literatuur die relevant is op mijn nieuwe topic, "Enhancing money laundering using RL". |
 | 14 Feb 2026 | 18:30-18:45 | 15m | Planning maken | D2 | Even alles op een rijtje zetten wat ik uberhaupt moet doen voor volgende week woensdag. Heb nu op de planning staan dat ik de volgende dingen af moet hebben: Probleem, Context, Bestaand Werk, Gat in de Kennis, Dataset Kiezen, Techniek Kiezen en Hoofd- en Deelvragen opstellen.  |
-| 14 Feb 2026 | 18:45-19:15 | 30m | Hoofdvraag opstellen | D2 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
-| 14 Feb 2026 | 22:15-22:45 | 30m | Hoofd- en Deelvragen opstellen | D2 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. [Hoofdvraagn en Deelvragen versie 1](./Wiki/Hoofdvraag_en_Deelvragen_v1.md) |  
-| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvraag_en_Deelvragen_v2.md) | 
+| 14 Feb 2026 | 18:45-19:15 | 30m | Hoofdvraag opstellen | D2, D3 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
+| 14 Feb 2026 | 22:15-22:45 | 30m | Hoofd- en Deelvragen opstellen | D2, D3 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. [Hoofdvraagn en Deelvragen versie 1](./Wiki/Hoofdvraag_en_Deelvragen_v1.md) |  
+| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2, D3 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvraag_en_Deelvragen_v2.md) | 
 | 15 Feb 2026 | 16:15-17:15 | 1u | Start on Context | A1 | Onderzoek doen naar wat "Money Laundering" inhoud. Context is ongeveer 20-25% klaar |
 
 Week 3: 14u30m
@@ -34,7 +34,7 @@ Week 3: 14u30m
 | 16 Feb 2026 | 16:00-17:15 | 1u15m | Update Context | A1 | Wrote "Money Laundering Detection" and "Limitations of Traditional AML Methods" supported with sources. Context is about 70% done |
 | 16 Feb 2026 | 19:15-21:15 | 2u | Finalize Context | A1 | Wrote "Machine Learning in AML" with sources. First draft of context is done. [Context](./Wiki/Context.md) |
 | 17 Feb 2026 | 15:30-16:15 | 45m | Choose Dataset | B1 | Look at all the datasets I collected during my literature review and came to the conclusion it's best if I generate my own dataset. [Dataset](./Wiki/Dataset.md) |
-| 18 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 3 | D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Presentatie_Status_Update.pptx)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Aantekeningen_Status_Update.md)) |
+| 18 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 3 | D1, D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Presentatie_Status_Update.pptx)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Aantekeningen_Status_Update.md)) |
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
 | 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
 
@@ -59,11 +59,13 @@ Week 4: 21u15m
 | 4 Mar 2026 | 16:00-18:15 | 2u15m | Work on M&T-3a | B1, B2, B3, C2 | Predictions maken voor jochem | 
 | 4 Mar 2026 | 19:30-20:15 | 45m | Finalize M&T-3a | C2 | Laatste stijl dingetjes, conclusies, nawoord | 
 | 4 Mar 2026 | 22:00-22:15 | 15m | Finalize M&T-3a | C2 | Conclusie beetje aanpassen |
-| 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning
-| 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | - | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
+| 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning. Erg Globaal |
+| 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | A2, B2 | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
 
-Week 5: 1u0m
+Week 5: 1u10m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | - | RL les 2 - Q-Learning / Deep-Q-Learning |
+| 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | A2, B1, B2, B3, C2 | RL les 2 - Q-Learning / Deep-Q-Learning. Robert deelde informatie die ik kan toepassen op de vermelde leeruitkomsten. |
+| 9 Mar 2026 | 13:35-13:45 | 10m | Logbook Update | - | Normaal update ik het logboek na elke taak maar ik was vergeten de leeruitkomsten te vermelden bij sommige taken. |
+| 9 Mar 2026 | 13:45-? | ? | Work on PvA | D2 | Alles wat ik moet doen voor PvA op een rijtje zetten |
 </div>
