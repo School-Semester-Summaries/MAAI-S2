@@ -35,7 +35,7 @@ Imbalanced Data
 - We use precision and recall. 
   - Precision: how much percent is actually risky
   - Recall: of how much risky casees, how muhc did we catch
-- AOPRC? -> VRAAG -----------------------------
+- AOPRC?
 - labels are craeted as follows: rule goes of -> human checks and determines if this might be fraudelent or not.
 
 Precision/Recall Demo
@@ -50,9 +50,34 @@ Precision/Recall Demo
 - we use this over AOC since that takes into account ... and that wouldn't give an accruate representation of the model performance since the data is imbalanced.
 - we aim for recall 0.95. You can move the threshold as long as the recall is 0.95.
 
+Generative AI in Banking
+- We use GEN AI for:
+  - KYC Summary Generation
+  - Document Extraction
+  - Hyper-Personlization - ING writes marketing messages. marketing specialist tries to make the marketing messages a bit more personal by dividing all people in for example 3 groups. For example: Young people, Mid, Old. 
+  - Software Engineering
+  - WB Front Office Productivity
+  - WB AIDD GenAI Data Extraction
+- Mortgages are INGs biggest incomes.
 
+Customer Due Dilligence and Risk Assessment Model
+- Not relevant for me.
+
+TM
+- ING has about 500 static rules to detect transaction as fraudelent
+- tree based model perform well and are explainable, we use XGBoost, we generate low medium and high score.
 
 Applied to Banking
+
+Questions
+1. In the context of transaction monitoring, You mentioned you use supervised classification for transaction monitoring and mentioned Logistic Regression and Neural Networks.
+  1.1 Have you used anything else before using Logistic Regression and Neural Networks, trees like xgboost?
+  1.2 Isn't NN problematic because of difficulty in explainability
+  1.3 Are you limited by Bias and Explainability to choose different approaches 
+2. In the context of TM, What are currently the biggest problems within AML within ING?
+3. Has TMNL changed anything in your current workflow? (TMNL -> Share data with all banks)
+4. What actions does ING take to comply to AVG?
+
 
 
 Vraag de slides!!!
