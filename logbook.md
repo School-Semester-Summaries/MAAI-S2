@@ -3,7 +3,7 @@
 Week 1: 8u
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab, Stagedag 1 | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie), [aantekeningen Onderzoeksplan](./informatie)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie)). |
+| 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab, Stagedag 1 | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie/Aantekeningen%20en%20School%20Presentaties/), [aantekeningen Onderzoeksplan](./informatie/Aantekeningen%20en%20School%20Presentaties/)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie/Aantekeningen%20en%20School%20Presentaties/)). |
 | 4 Feb 2026 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
 | 5 Feb 2026 | 15:30-16:30 | 1u | Studiehandleiding doornemen | - | Studiehandleiding doorgenomen en deze toegevoegd aan mijn GitHub repo |
 | 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | D2 | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
@@ -14,7 +14,7 @@ Week 1: 8u
 Week 2: 12u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 10 Feb 2026 | 11:45-12:30 | 45m | Domein specifieke informatiebronnen verzamelen | A1 | [Presentatie over Het Onderzoeksplan](./informatie) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
+| 10 Feb 2026 | 11:45-12:30 | 45m | Domein specifieke informatiebronnen verzamelen | A1 | [Presentatie over Het Onderzoeksplan](./informatie/Aantekeningen%20en%20School%20Presentaties/) bemachtigen en uploaden naar GitHub. Mijn notules omgezet in markdown files zodat ik ze online kan lezen. | 
 | 10 Feb 2026 | 12:45-13:45 | 1u | Voorbereiding voor Literatuurverkenning | D2 | Geavanceerde zoeklicht module herhalen. Alle gegeven literatuur op een rijtje zetten. | 
 | 10 Feb 2026 | 15:15-16:00 | 45m | Literatuurverkenning | A1, D2 | Onderzocht wat "Money Laundering" is en gezocht naar datasets. Drie datasets gevonden, alles gedocumenteerd in een bestand wat uiteindelijk mijn presentatie gaat worden. |
 | 11 Feb 2026 | 10:00-10:30 | 30m | Literatuurverkenning | A1, D2 | Alle gegeven bronnen bekeken en beoordeeld op bruikbaarheid |
@@ -23,8 +23,8 @@ Week 2: 12u15m
 | 14 Feb 2026 | 17:30-18:15 | 45m | Relevante Literatuur Zoeken | D2 | Zoeken naar nieuwe literatuur die relevant is op mijn nieuwe topic, "Enhancing money laundering using RL". |
 | 14 Feb 2026 | 18:30-18:45 | 15m | Planning maken | D2 | Even alles op een rijtje zetten wat ik uberhaupt moet doen voor volgende week woensdag. Heb nu op de planning staan dat ik de volgende dingen af moet hebben: Probleem, Context, Bestaand Werk, Gat in de Kennis, Dataset Kiezen, Techniek Kiezen en Hoofd- en Deelvragen opstellen.  |
 | 14 Feb 2026 | 18:45-19:15 | 30m | Hoofdvraag opstellen | D2, D3 | Brainstormen met ChatGPT over een interessante maar relevante hoofdvraag voor mijn project |
-| 14 Feb 2026 | 22:15-22:45 | 30m | Hoofd- en Deelvragen opstellen | D2, D3 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. [Hoofdvraagn en Deelvragen versie 1](./Wiki/Hoofdvraag_en_Deelvragen_v1.md) |  
-| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2, D3 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvraag_en_Deelvragen_v2.md) | 
+| 14 Feb 2026 | 22:15-22:45 | 30m | Hoofd- en Deelvragen opstellen | D2, D3 | De eerste versie van de hoofdvraag en deelvragen opgesteld en ook mijn denkwijze en de genomen stappen gedocumenteerd. [Hoofdvraagn en Deelvragen versie 1](./Wiki/Hoofdvragen%20en%20Deelvragen/Hoofdvraag_en_Deelvragen_v1.md) |  
+| 14 Feb 2026 | 23:00-00:45 | 1u45m | Hoofd- en Deelvragen afronden | D2, D3 | Sommige zinnen formeler opgeschreven, bronnen toegevoegd om beweringen te versterken. Voornamelijk het zoeken van veel geciteerde en peer-reviewed bronnen duurde erg lang. [Hoofdvraagn en Deelvragen versie 2](./Wiki/Hoofdvragen%20en%20Deelvragen/Hoofdvraag_en_Deelvragen_v2.md) | 
 | 15 Feb 2026 | 16:15-17:15 | 1u | Start on Context | A1 | Onderzoek doen naar wat "Money Laundering" inhoud. Context is ongeveer 20-25% klaar |
 
 Week 3: 14u30m
@@ -34,9 +34,9 @@ Week 3: 14u30m
 | 16 Feb 2026 | 16:00-17:15 | 1u15m | Update Context | A1 | Wrote "Money Laundering Detection" and "Limitations of Traditional AML Methods" supported with sources. Context is about 70% done |
 | 16 Feb 2026 | 19:15-21:15 | 2u | Finalize Context | A1 | Wrote "Machine Learning in AML" with sources. First draft of context is done. [Context](./Wiki/Context.md) |
 | 17 Feb 2026 | 15:30-16:15 | 45m | Choose Dataset | B1 | Look at all the datasets I collected during my literature review and came to the conclusion it's best if I generate my own dataset. [Dataset](./Wiki/Dataset.md) |
-| 18 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 3 | D1, D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Presentatie_Status_Update.pptx)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Aantekeningen_Status_Update.md)) |
+| 18 Feb 2026 | 13:30-17:00 | 3u30m | Stagedag 3 | D1, D2 | Gepresenteerd wat ik afgelopen week gedaan heb ([Presentatie Status Update](./informatie/Feedback%20en%20Mijn%20Presentaties/presentatie_status_update_18_feb.pdf)). Aantekeningen gemaakt van het commentaar ([Aantekeningen status update](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_status_update_18_feb.md)) |
 | 18 Feb 2026 | 20:00-20:20 | 30m | M&T Doornemen | - | Gekeken naar de slides van les 1 tot en met 4. Ook alvast het boek gedownload waar de lessen op gebasseerd zijn en er kort in gekeken |
-| 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
+| 19 Feb 2026 | 09:00-13:45 | 4u45m | Eerste Schooldag | D2 | Presentatie van Lamia tips voor PvA bijgewoond. Mijn status update gepresenteerd aan de andere afstudeerders en David en Saskia ([Presentatie Feedback](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_status_update_hva.txt)), M&T les bijgewoond. |
 
 Week 3: 11u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
@@ -69,10 +69,10 @@ Week 5: 9u15m
 | 9 Mar 2026 | 13:35-13:45 | 10m | Logbook Update | D1 | Normaal update ik het logboek na elke taak maar ik was vergeten de leeruitkomsten te vermelden bij sommige taken. |
 | 9 Mar 2026 | 13:45-17:20 | 3u35m | Work on PvA | D2 | Alles wat ik moet doen voor PvA op een rijtje zetten. Onderzoek naar state of the art. |
 | 9 Mar 2026 | 20:30-21:45 | 1u15m | Work on PvA | D2 | Research State of the Art |
-| 9 Mar 2026 | 22:15 | - | Feedback Vragen | D1, A1, A2, A4, B1, B2, C2, D2, D3 | Feedback Gevraagd op "PvA_v0.2.odp" aan Michiel Bontebal |
+| 9 Mar 2026 | 22:15 | - | Feedback Vragen | D1, A1, A2, A4, B1, B2, C2, D2, D3 | Feedback Gevraagd op "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" aan Michiel Bontebal |
 | 10 Mar 2026 | 13:45-16:15 | 2u30m | Work on PvA | D2 | Research State of the Art |
-| 10 Mar 2026 | 16:00-16:15 | 15m | Feedback Bespreken | D1 | Berichten met Michiel over "PvA_v0.2.odp" |
+| 10 Mar 2026 | 16:00-16:15 | 15m | Feedback Bespreken | D1 | Berichten met Michiel over "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" |
 | 11 Mar 2026 | 12:30-13:00 | 30m | Work on PvA | D2, D3 | Stakeholder Analyse |
-| 11 Mar 2026 | 13:30-? | ?u?m | Stagedag 5 | D1 | Feedback op "PvA_v0.3.odp" |
+| 11 Mar 2026 | 13:30-? | ?u?m | Stagedag 5 | D1 | Feedback op "[PvA_v0.3.pdf](./Wiki/PvA/PvA_v0.3.pdf)", Feedback genoteerd en geupload [Feedback PvA_v0.3.pdf](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_pva_11_maart.md) |
 
 </div>
