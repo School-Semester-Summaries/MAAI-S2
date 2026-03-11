@@ -74,23 +74,23 @@ Questions
   1.1 Have you used anything else before using Logistic Regression and Neural Networks, trees like xgboost?
   1.2 Isn't NN problematic because of difficulty in explainability
   1.3 Are you limited by Bias and Explainability to choose different approaches, if so what direction woudld you like to go in if explainability and or bias wouldn't be a requirement.
-2. In the context of TM, What are currently the biggest problems within AML within ING?
+2. in TM, based on the presentation the entire proces sounds very streamlined and flawless, what are the biggest challenges and or problems?
 3. Has TMNL changed anything in your current workflow? (TMNL -> Share data with all banks) 
 4. What actions does ING take to comply to AVG?
 
 Answers
 1.1 xgboost, random forest, usually tree based models because explainable.
-1.2 n/a
+1.2 we do not use logistic regression and NN. those are examples.
 1.3 Keras, neural network but engineering constraints because huge data and its slow. Maybe try out a simple NN. or Graph-Based Models.
 2. 
 3. only can see amounts and transaction ids. TMNL was shut down because they werent allowed to share data with each other. You can only share to other banks if it was actually fraudelent. Now ING doesnt see the other banking information anymore. AMLR shut it down.
 4.
 
-
 Other Questions
 - Why not semi-supervised?
   - we haven't looked at semi-supervised in our department. For us, whenever we build a model, its difficult to sign them off. the more complicated a model gets the harder it gets to proceed with a model.
   - We have to sign off at the regulators with explainability layers. Also go through model validation, their job is to make sure everything is good and working. Business stakeholders dont come from technical backgrounds. All those stakeholders are internal like: model validation (checks for Data science standards). business and regulators. regulator is DMB for netherlands.
+- ... would not allow us to train on synthetic data.
 
 Vraag de slides!!!
 
