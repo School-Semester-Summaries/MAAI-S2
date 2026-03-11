@@ -73,11 +73,22 @@ Questions
 1. In the context of transaction monitoring, You mentioned you use supervised classification for transaction monitoring and mentioned Logistic Regression and Neural Networks.
   1.1 Have you used anything else before using Logistic Regression and Neural Networks, trees like xgboost?
   1.2 Isn't NN problematic because of difficulty in explainability
-  1.3 Are you limited by Bias and Explainability to choose different approaches 
+  1.3 Are you limited by Bias and Explainability to choose different approaches, if so what direction woudld you like to go in if explainability and or bias wouldn't be a requirement.
 2. In the context of TM, What are currently the biggest problems within AML within ING?
 3. Has TMNL changed anything in your current workflow? (TMNL -> Share data with all banks)
 4. What actions does ING take to comply to AVG?
 
+Answers
+1.1
+1.2
+1.3
+2.
+3.
+4.
+
+
+Other Questions
+- 
 
 
 Vraag de slides!!!
