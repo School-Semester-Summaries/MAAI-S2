@@ -73,6 +73,6 @@ Week 5: 12u45m
 | 10 Mar 2026 | 13:45-16:15 | 2u30m | Work on PvA | D2 | Research State of the Art |
 | 10 Mar 2026 | 16:00-16:15 | 15m | Feedback Bespreken | D1 | Berichten met Michiel over "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" |
 | 11 Mar 2026 | 12:30-13:00 | 30m | Work on PvA | D2, D3 | Stakeholder Analyse |
-| 11 Mar 2026 | 13:30-17:00 | 3u30m | Stagedag 5 | D1 | Feedback op "[PvA_v0.3.pdf](./Wiki/PvA/PvA_v0.3.pdf)", Feedback genoteerd en geupload [Feedback PvA_v0.3.pdf](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_pva_11_maart.md). Ook presentatie gekregen van 2 data scientists van ING. Hen veel vragen gesteld en aantekeningen gemaakt "[Aantekeningen ING AML](./informatie/Aantekeningen%20en%20School%20Presentaties)" |
+| 11 Mar 2026 | 13:30-17:00 | 3u30m | Stagedag 5 | A1, A2, B2, C2, D1 | Feedback op "[PvA_v0.3.pdf](./Wiki/PvA/PvA_v0.3.pdf)", Feedback genoteerd en geupload [Feedback PvA_v0.3.pdf](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_pva_11_maart.md). Ook presentatie gekregen van 2 data scientists van ING. Hen veel vragen gesteld en aantekeningen gemaakt "[Aantekeningen ING AML](./informatie/Aantekeningen%20en%20School%20Presentaties)" |
 
 </div>
