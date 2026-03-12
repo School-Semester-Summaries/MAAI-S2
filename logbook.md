@@ -62,7 +62,7 @@ Week 4: 21u15m
 | 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning. Erg Globaal |
 | 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | A2, B2 | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
 
-Week 5: 17u30m
+Week 5: 18um
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | A2, B1, B2, B3, C2 | RL les 2 - Q-Learning / Deep-Q-Learning. Robert deelde informatie die ik kan toepassen op de vermelde leeruitkomsten. |
@@ -78,7 +78,7 @@ Week 5: 17u30m
 | 12 Mar 2026 | 12:15-13:15 | 1u | M&T Les 10 | B1 | Les over Policy Gradient Methods |
 | 12 Mar 2026 | 13:45-15:45 | 2u | Work on PvA | A1, D2 | Alles overgezet naar overleaf en "More Recent Developments" toegevoegd aan literature overview |
 | 12 Mar 2026 | 16:15-17:30 | 1u15m | Work on PvA | A1, D2 | GNN-RL en DRL besproken in Literature Review en zo Literature Overview afgerond |
-| 12 Mar 2026 | 17:45-? | ? | Work on PvA | A1, D2 | Start on identified gap |
+| 12 Mar 2026 | 17:45-18:15 | 30m | Work on PvA | A1, D2 | Wrote identified gap |
 
 
 </div>
