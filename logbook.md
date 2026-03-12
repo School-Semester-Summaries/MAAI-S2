@@ -79,6 +79,7 @@ Week 5: 18um
 | 12 Mar 2026 | 13:45-15:45 | 2u | Work on PvA | A1, D2 | Alles overgezet naar overleaf en "More Recent Developments" toegevoegd aan literature overview |
 | 12 Mar 2026 | 16:15-17:30 | 1u15m | Work on PvA | A1, D2 | GNN-RL en DRL besproken in Literature Review en zo Literature Overview afgerond |
 | 12 Mar 2026 | 17:45-18:15 | 30m | Work on PvA | A1, D2 | Wrote identified gap |
+| 12 Mar 2026 | 20:15-?
 
 
 </div>
