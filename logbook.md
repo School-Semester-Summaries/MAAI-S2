@@ -76,5 +76,7 @@ Week 5: 14u15m
 | 11 Mar 2026 | 13:30-17:00 | 3u30m | Stagedag 5 | A1, A2, B2, C2, D1 | Feedback op "[PvA_v0.3.pdf](./Wiki/PvA/PvA_v0.3.pdf)", Feedback genoteerd en geupload [Feedback PvA_v0.3.pdf](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_pva_11_maart.md). Ook presentatie gekregen van 2 data scientists van ING. Hen veel vragen gesteld en aantekeningen gemaakt "[Aantekeningen ING AML](./informatie/Aantekeningen%20en%20School%20Presentaties)" |
 | 12 Mar 2026 | 11:00-11:30 | 30m | Work on M&T-3b | B1, B2 | Voorbereiden op M&T les 10, Policy Gradient Methods |
 | 12 Mar 2026 | 12:15-13:15 | 1u | M&T Les 10 | B1 | Les over Policy Gradient Methods |
+| 12 Mar 2026 | 13:45-
+
 
 </div>
