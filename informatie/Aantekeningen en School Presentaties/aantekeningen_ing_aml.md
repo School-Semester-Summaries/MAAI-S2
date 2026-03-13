@@ -70,23 +70,23 @@ TM
 Applied to Banking
 
 Questions
-1. In the context of transaction monitoring, You mentioned you use supervised classification for transaction monitoring and mentioned Logistic Regression and Neural Networks.
-  1.1 Have you used anything else before using Logistic Regression and Neural Networks, trees like xgboost?
-  1.2 Isn't NN problematic because of difficulty in explainability
-  1.3 Are you limited by Bias and Explainability to choose different approaches, if so what direction woudld you like to go in if explainability and or bias wouldn't be a requirement.
-2. in TM, based on the presentation the entire proces sounds very streamlined and flawless, what are the biggest challenges and or problems?
-3. Has TMNL changed anything in your current workflow? (TMNL -> Share data with all banks) 
-4. What actions does ING take to comply to AVG?
-5. Slides?
+- 1. In the context of transaction monitoring, You mentioned you use supervised classification for transaction monitoring and mentioned Logistic Regression and Neural Networks.
+  - 1.1 Have you used anything else before using Logistic Regression and Neural Networks, trees like xgboost?
+  - 1.2 Isn't NN problematic because of difficulty in explainability
+  - 1.3 Are you limited by Bias and Explainability to choose different approaches, if so what direction woudld you like to go in if explainability and or bias wouldn't be a requirement.
+- 2. in TM, based on the presentation the entire proces sounds very streamlined and flawless, what are the biggest challenges and or problems?
+- 3. Has TMNL changed anything in your current workflow? (TMNL -> Share data with all banks) 
+- 4. What actions does ING take to comply to AVG?
+- 5. Slides?
 
 Answers
-1.1 xgboost, random forest, usually tree based models because explainable.
-1.2 we do not use logistic regression and NN. those are examples.
-1.3 Keras, neural network but engineering constraints because huge data and its slow. Maybe try out a simple NN. or Graph-Based Models.
-2. model performance. if they find too many actual risks that werent flagged. we can lose banking license. Alot of pressure from stakeholders. its very complex and that is the biggest issue right now. We usually close low risk cases and keep mid and high risk. But to fix this issue, we sample from low risk to get an idea how many are in low risk. How do we sample -> we have categories (cash, foreign). stratified sampling. now random sampling because too hard to much headache to explain to business.
-3. only can see amounts and transaction ids. TMNL was shut down because they werent allowed to share data with each other. You can only share to other banks if it was actually fraudelent. Now ING doesnt see the other banking information anymore. AMLR shut it down.
-4. we dont have acces to everything like adres, name, gender country of origin, nationality, besides this we have access to everything. marketing doesnt have to any personal data. There are also teams accessing on bias and fairness
-5. Maybe
+- 1.1 xgboost, random forest, usually tree based models because explainable.
+- 1.2 we do not use logistic regression and NN. those are examples.
+- 1.3 Keras, neural network but engineering constraints because huge data and its slow. Maybe try out a simple NN. or Graph-Based Models.
+- 2. model performance. if they find too many actual risks that werent flagged. we can lose banking license. Alot of pressure from stakeholders. its very complex and that is the biggest issue right now. We usually close low risk cases and keep mid and high risk. But to fix this issue, we sample from low risk to get an idea how many are in low risk. How do we sample -> we have categories (cash, foreign). stratified sampling. now random sampling because too hard to much headache to explain to business.
+- 3. only can see amounts and transaction ids. TMNL was shut down because they werent allowed to share data with each other. You can only share to other banks if it was actually fraudelent. Now ING doesnt see the other banking information anymore. AMLR shut it down.
+- 4. we dont have acces to everything like adres, name, gender country of origin, nationality, besides this we have access to everything. marketing doesnt have to any personal data. There are also teams accessing on bias and fairness
+- 5. Maybe
 
 Other Questions
 - Why not semi-supervised?
