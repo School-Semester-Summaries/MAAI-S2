@@ -62,7 +62,7 @@ Week 4: 21u15m
 | 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning. Erg Globaal |
 | 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | A2, B2 | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
 
-Week 5: 22u0mm
+Week 5: 22u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | A2, B1, B2, B3, C2 | RL les 2 - Q-Learning / Deep-Q-Learning. Robert deelde informatie die ik kan toepassen op de vermelde leeruitkomsten. |
@@ -83,6 +83,7 @@ Week 5: 22u0mm
 | 12 Mar 2026 | 23:00-23:30 | 30m | Work on PvA | D2 | Wrote Related Work Comparison |
 | 13 Mar 2026 | 09:30-11:15 | 1u45m | Guest Lecture | A1 | Presentatie bijgewoond van 2 data scientists van ABN AMRO |
 | 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
+| 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1 | Work on Stakeholder Insights |
 
 
 </div>
