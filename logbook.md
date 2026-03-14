@@ -84,6 +84,7 @@ Week 5: 22u30m
 | 13 Mar 2026 | 09:30-11:15 | 1u45m | Guest Lecture | A1 | Presentatie bijgewoond van 2 data scientists van ABN AMRO |
 | 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
 | 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1 | Work on Stakeholder Insights |
+| 14 Mar 2026 | 14:30-?
 
 
 </div>
