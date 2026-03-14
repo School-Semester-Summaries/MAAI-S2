@@ -65,26 +65,26 @@ Week 4: 21u15m
 Week 5: 22u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | A2, B1, B2, B3, C2 | RL les 2 - Q-Learning / Deep-Q-Learning. Robert deelde informatie die ik kan toepassen op de vermelde leeruitkomsten. |
-| 9 Mar 2026 | 13:35-13:45 | 10m | Logbook Update | D1 | Normaal update ik het logboek na elke taak maar ik was vergeten de leeruitkomsten te vermelden bij sommige taken. |
-| 9 Mar 2026 | 13:45-17:20 | 3u35m | Work on PvA | D2 | Alles wat ik moet doen voor PvA op een rijtje zetten. Onderzoek naar state of the art. |
-| 9 Mar 2026 | 20:30-21:45 | 1u15m | Work on PvA | D2 | Research State of the Art |
-| 9 Mar 2026 | 22:15 | - | Feedback Vragen | D1, A1, A2, A4, B1, B2, C2, D2, D3 | Feedback Gevraagd op "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" aan Michiel Bontebal |
-| 10 Mar 2026 | 13:45-16:15 | 2u30m | Work on PvA | D2 | Research State of the Art |
-| 10 Mar 2026 | 16:00-16:15 | 15m | Feedback Bespreken | D1 | Berichten met Michiel over "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" |
-| 11 Mar 2026 | 12:30-13:00 | 30m | Work on PvA | D2, D3 | Stakeholder Analyse |
-| 11 Mar 2026 | 13:30-17:00 | 3u30m | Stagedag 5 | A1, A2, B2, C2, D1 | Feedback op "[PvA_v0.3.pdf](./Wiki/PvA/PvA_v0.3.pdf)", Feedback genoteerd en geupload [Feedback PvA_v0.3.pdf](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_pva_11_maart.md). Ook presentatie gekregen van 2 data scientists van ING. Hen veel vragen gesteld en aantekeningen gemaakt "[Aantekeningen ING AML](./informatie/Aantekeningen%20en%20School%20Presentaties)" |
-| 12 Mar 2026 | 11:00-11:30 | 30m | Work on M&T-3b | B1, B2 | Voorbereiden op M&T les 10, Policy Gradient Methods |
-| 12 Mar 2026 | 12:15-13:15 | 1u | M&T Les 10 | B1 | Les over Policy Gradient Methods |
-| 12 Mar 2026 | 13:45-15:45 | 2u | Work on PvA | A1, D2 | Alles overgezet naar overleaf en "More Recent Developments" toegevoegd aan literature overview |
-| 12 Mar 2026 | 16:15-17:30 | 1u15m | Work on PvA | A1, D2 | GNN-RL en DRL besproken in Literature Review en zo Literature Overview afgerond |
-| 12 Mar 2026 | 17:45-18:15 | 30m | Work on PvA | A1, D2 | Wrote identified gap |
-| 12 Mar 2026 | 20:15-21:30 | 1u15m | Work on PvA | A1, D2 | Wrote Scope and Relevant Literature |
-| 12 Mar 2026 | 23:00-23:30 | 30m | Work on PvA | D2 | Wrote Related Work Comparison |
-| 13 Mar 2026 | 09:30-11:15 | 1u45m | Guest Lecture | A1 | Presentatie bijgewoond van 2 data scientists van ABN AMRO |
-| 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3, D2 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
-| 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1, D2 | Work on Stakeholder Insights |
-| 14 Mar 2026 | 14:30-? | ? | Work on PvA | A1, D2 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1 at 16:10. Wrote *AI Suitability Justification*, Wrote *Ethical and Societal Considerations*|
+| Ma 9 Mar 2026 | 12:00-13:00 | 1u | M&T Les 9 | A2, B1, B2, B3, C2 | RL les 2 - Q-Learning / Deep-Q-Learning. Robert deelde informatie die ik kan toepassen op de vermelde leeruitkomsten. |
+| Ma 9 Mar 2026 | 13:35-13:45 | 10m | Logbook Update | D1 | Normaal update ik het logboek na elke taak maar ik was vergeten de leeruitkomsten te vermelden bij sommige taken. |
+| Ma 9 Mar 2026 | 13:45-17:20 | 3u35m | Work on PvA | D2 | Alles wat ik moet doen voor PvA op een rijtje zetten. Onderzoek naar state of the art. |
+| Ma 9 Mar 2026 | 20:30-21:45 | 1u15m | Work on PvA | D2 | Research State of the Art |
+| Ma 9 Mar 2026 | 22:15 | - | Feedback Vragen | D1, A1, A2, A4, B1, B2, C2, D2, D3 | Feedback Gevraagd op "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" aan Michiel Bontebal |
+| Di 10 Mar 2026 | 13:45-16:15 | 2u30m | Work on PvA | D2 | Research State of the Art |
+| Di 10 Mar 2026 | 16:00-16:15 | 15m | Feedback Bespreken | D1 | Berichten met Michiel over "[PvA_v0.2.pdf](./Wiki/PvA/PvA_v0.2.pdf)" |
+| Wo 11 Mar 2026 | 12:30-13:00 | 30m | Work on PvA | D2, D3 | Stakeholder Analyse |
+| Wo 11 Mar 2026 | 13:30-17:00 | 3u30m | Stagedag 5 | A1, A2, B2, C2, D1 | Feedback op "[PvA_v0.3.pdf](./Wiki/PvA/PvA_v0.3.pdf)", Feedback genoteerd en geupload [Feedback PvA_v0.3.pdf](./informatie/Feedback%20en%20Mijn%20Presentaties/feedback_presentatie_pva_11_maart.md). Ook presentatie gekregen van 2 data scientists van ING. Hen veel vragen gesteld en aantekeningen gemaakt "[Aantekeningen ING AML](./informatie/Aantekeningen%20en%20School%20Presentaties)" |
+| Do 12 Mar 2026 | 11:00-11:30 | 30m | Work on M&T-3b | B1, B2 | Voorbereiden op M&T les 10, Policy Gradient Methods |
+| Do 12 Mar 2026 | 12:15-13:15 | 1u | M&T Les 10 | B1 | Les over Policy Gradient Methods |
+| Do 12 Mar 2026 | 13:45-15:45 | 2u | Work on PvA | A1, D2 | Alles overgezet naar overleaf en "More Recent Developments" toegevoegd aan literature overview |
+| Do 12 Mar 2026 | 16:15-17:30 | 1u15m | Work on PvA | A1, D2 | GNN-RL en DRL besproken in Literature Review en zo Literature Overview afgerond |
+| Do 12 Mar 2026 | 17:45-18:15 | 30m | Work on PvA | A1, D2 | Wrote identified gap |
+| Do 12 Mar 2026 | 20:15-21:30 | 1u15m | Work on PvA | A1, D2 | Wrote Scope and Relevant Literature |
+| Do 12 Mar 2026 | 23:00-23:30 | 30m | Work on PvA | D2 | Wrote Related Work Comparison |
+| Vr 13 Mar 2026 | 09:30-11:15 | 1u45m | Guest Lecture | A1 | Presentatie bijgewoond van 2 data scientists van ABN AMRO |
+| Vr 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3, D2 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
+| Vr 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1, D2 | Work on Stakeholder Insights |
+| Za 14 Mar 2026 | 14:30-17:00 | 2u30m | Work on PvA | A1, D2 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1 at 16:10. Wrote *AI Suitability Justification*, Wrote *Ethical and Societal Considerations*, Wrote Chapter 3  *Methodology: Research Design*. Will proofread Chapter 2+ tomorrow to provide a more critical and less bias induced analysis |
 
 
 </div>
