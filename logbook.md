@@ -84,7 +84,7 @@ Week 5: 22u30m
 | 13 Mar 2026 | 09:30-11:15 | 1u45m | Guest Lecture | A1 | Presentatie bijgewoond van 2 data scientists van ABN AMRO |
 | 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3, D2 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
 | 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1, D2 | Work on Stakeholder Insights |
-| 14 Mar 2026 | 14:30-? | ? | Work on PvA | A1, D2 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1 at 16:10. |
+| 14 Mar 2026 | 14:30-? | ? | Work on PvA | A1, D2 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1 at 16:10. Wrote *AI Suitability Justification*|
 
 
 </div>
