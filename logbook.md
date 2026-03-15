@@ -84,9 +84,9 @@ Week 5: 25u30m
 | Fr 13 Mar 2026 | 09:30-11:15 | 1u45m | Guest Lecture | A1 | Presentatie bijgewoond van 2 data scientists van ABN AMRO |
 | Fr 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3, D2 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
 | Fr 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1, D2 | Work on Stakeholder Insights |
-| Sa 14 Mar 2026 | 14:30-17:00 | 2u30m | Work on PvA | A1, A4, C2, D2, D3 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1 at 16:10. <br><br>Wrote *AI Suitability Justification*, Wrote *Ethical and Societal Considerations*, Wrote Chapter 3  *Methodology: Research Design*. Will proofread Chapter 2+ tomorrow to provide a more critical and less bias induced analysis |
+| Sa 14 Mar 2026 | 14:30-17:00 | 2u30m | Work on PvA | A1, A4, C2, D2, D3 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1, Wrote *AI Suitability Justification*, Wrote *Ethical and Societal Considerations*, Wrote Chapter 3  *Methodology: Research Design*. Will proofread Chapter 2+ tomorrow to provide a more critical and less bias induced analysis |
 | Sa 14 Mar 2026 | 19:45-20:15 | 30m | Work on PvA | A2 | Started on *Legal Requirements* |
-| Su 15 Mar 2026 | 13:30-? | ? | Work on PvA | ? | ? |
+| Su 15 Mar 2026 | 13:30-? | ? | Work on PvA | A2, D2 | Finished Requirements, proofread first 3 chapters and made minor adjustments |
 
 
 </div>
