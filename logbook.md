@@ -4,12 +4,12 @@ Week 1: 8u
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | We 4 Feb 2026 | 13:30-16:30 | 3u | Kennismaking Finance-lab, Stagedag 1 | A1 | Presentatie gekregen van Kees van Montfort over de kickoff van het finance lab en een presentatie over fraudedetectie. Ook een presentatie gehad van Gert de Jong over de onderzoekstopics en het onderzoeksplan. Ik heb aantekeningen gemaakt tijdens de presentaties ([aantekeningen kennismaking](./informatie/Aantekeningen%20en%20School%20Presentaties/), [aantekeningen Onderzoeksplan](./informatie/Aantekeningen%20en%20School%20Presentaties/)). De presentatie van de kickoff hebben we doorgestuurd gekregen ([presentatie kickoff](./informatie/Aantekeningen%20en%20School%20Presentaties/)). |
-| 4 Feb 2026 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
-| 5 Feb 2026 | 15:30-16:30 | 1u | Studiehandleiding doornemen | - | Studiehandleiding doorgenomen en deze toegevoegd aan mijn GitHub repo |
-| 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | D2 | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
-| 7 Feb 2026 | 12:45-13:45 | 1u | Zoeklicht Basis modules + toets | D2 | Modules van zoeklicht basis gevolgd. Ook de toets gemaakt van zoeklicht basis. Daarvoor een 3.1 gehaald |
-| 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
-| 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
+| We 4 Feb 2026 | 19:15-19:45 | 30m | Werken aan Portfolio | D1 | Ik heb mijn repository aangemaakt. Aantekeningen geupload, presentatie geupload en begonnen aan mijn logboek. |
+| Th 5 Feb 2026 | 15:30-16:30 | 1u | Studiehandleiding doornemen | - | Studiehandleiding doorgenomen en deze toegevoegd aan mijn GitHub repo |
+| Fr 6 Feb 2026 | 14:15-14:45 | 30m | Voorbereiden op Zoeklicht | D2 | Alle cursussen van zoeklicht toevoegen aan mijn DLO. Blijkbaar zijn het er best wel veel dus ga ik hier morgen even goed te tijd voor nemen |
+| Sa 7 Feb 2026 | 12:45-13:45 | 1u | Zoeklicht Basis modules + toets | D2 | Modules van zoeklicht basis gevolgd. Ook de toets gemaakt van zoeklicht basis. Daarvoor een 3.1 gehaald |
+| Sa 7 Feb 2026 | 14:00-14:30 | 30m | Zoeklicht Basis toets herkansing | D2 | Voor zoeklicht basis een 6.0 gehaald |
+| Sa 7 Feb 2026 | 14:30-16:00 | 1u30m | Zoeklicht Geavanceerd modules + toetsen | D2 | Modules gevolgd en toets gemaakt. Voor toets een 4.5 gehaald, daarna herkanst en een 6.2 behaald. |
 
 Week 2: 12u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
@@ -85,7 +85,8 @@ Week 5: 25u30m
 | Fr 13 Mar 2026 | 11:30-12:00 | 30m | Work on PvA | A1, C3, D2 | Look for stakeholders and spar with Kees and Michiel seperately about stakeholders | 
 | Fr 13 Mar 2026 | 16:30-17:00 | 30m | Work on PvA | A1, D2 | Work on Stakeholder Insights |
 | Sa 14 Mar 2026 | 14:30-17:00 | 2u30m | Work on PvA | A1, A4, C2, D2, D3 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1 at 16:10. <br><br>Wrote *AI Suitability Justification*, Wrote *Ethical and Societal Considerations*, Wrote Chapter 3  *Methodology: Research Design*. Will proofread Chapter 2+ tomorrow to provide a more critical and less bias induced analysis |
-| Sa 14 Mar 2026 | 19:45-20:15 | 30m | Work on PvA | A2 | Started on *Legal Requirements* | 
+| Sa 14 Mar 2026 | 19:45-20:15 | 30m | Work on PvA | A2 | Started on *Legal Requirements* |
+| Su 15 Mar 2026 | 13:30-? | ? | Work on PvA | ? | ? |
 
 
 </div>
