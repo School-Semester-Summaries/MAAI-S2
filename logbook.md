@@ -87,6 +87,7 @@ Week 5: 29u30m
 | Sa 14 Mar 2026 | 14:30-17:00 | 2u30m | Work on PvA | A1, A4, C2, D2, D3 | Restructure Overleaf document, Add sources to *Limitations of Traditional AML Methods*, Swap order of *Stakeholder Insights* and *Literature Overview* to better represent the order I worked in. Removed *Machine Learning in AML* due to redundancy. Proofread Chapter 1 introduction made many smaller changes and add sources. Finished chapter 1, Wrote *AI Suitability Justification*, Wrote *Ethical and Societal Considerations*, Wrote Chapter 3  *Methodology: Research Design*. Will proofread Chapter 2+ tomorrow to provide a more critical and less bias induced analysis |
 | Sa 14 Mar 2026 | 19:45-20:15 | 30m | Work on PvA | A2 | Started on *Legal Requirements* |
 | Su 15 Mar 2026 | 13:30-17:30 | 4u | Work on PvA | A2, B1, D2 | Finished Requirements, proofread first 3 chapters and made minor adjustments, wrote data,  |
+| Su 15 Mar 2026 | 20:15-? | ? | Work on PvA | D2 | ? |
 
 
 </div>
