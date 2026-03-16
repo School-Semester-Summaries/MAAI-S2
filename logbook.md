@@ -92,6 +92,8 @@ Week 5: 32u30m
 Week 6: 01u00m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| Mo 16 Mar 2026 | 10:30-11:30 | D2 | Work on PvA | D2, D3 | Wrote Chapter 10 and checked all sources |
+| Mo 16 Mar 2026 | 10:30-11:30 | 1u | Work on PvA | D2, D3 | Wrote Chapter 10 and checked all sources |
+| Mo 16 Mar 2026 | 12:00-13:00 | 1u | M&T Les 11 | - | Didn't understand anything decided to buy a statistics book |
+| Mo 16 Mar 2026 | 13:45-? | ? | Work on PvA | D2 | Proofread Chapters 4-10 |
 
 </div>
