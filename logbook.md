@@ -52,15 +52,15 @@ Week 4: 21u15m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | Mo 2 Mar 2026 | 13:45-14:15 | 30m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Amber, Savannah en Isabel de opdracht overlegt |
-| 2 Mar 2026 | 14:30-14:45 | 15m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Terrence de opdracht overlegt |
-| 2 Mar 2026 | 14:45-02:45 | 12u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Gewerkt aan de opdracht in het bijzijn van Terence, om de paar uur war overlegt en gespard over de opdracht, thuis nog doorgewerkt en opdracht helemaal afgemaakt |
-| 3 Mar 2026 | 14:00-15:00 | 1u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Door mijn opdracht gelezen, kleine foutjes eruit gehaald. 2de en gelijk laatste versie van m&t ingeleverd |
-| 4 Mar 2026 | 13:30-15:00 | 1u30m | Stagedag 4 | A2 | Les over Ethiek, normen, waarden en deugden |   
-| 4 Mar 2026 | 16:00-18:15 | 2u15m | Work on M&T-3a | B1, B2, B3, C2 | Predictions maken voor jochem | 
-| 4 Mar 2026 | 19:30-20:15 | 45m | Finalize M&T-3a | C2 | Laatste stijl dingetjes, conclusies, nawoord | 
-| 4 Mar 2026 | 22:00-22:15 | 15m | Finalize M&T-3a | C2 | Conclusie beetje aanpassen |
-| 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning. Erg Globaal |
-| 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | A2, B2 | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
+| Mo 2 Mar 2026 | 14:30-14:45 | 15m | Overleggen M&T-3a | A2, B1, B2, B3, C2 | Met Terrence de opdracht overlegt |
+| Mo 2 Mar 2026 | 14:45-02:45 | 12u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Gewerkt aan de opdracht in het bijzijn van Terence, om de paar uur war overlegt en gespard over de opdracht, thuis nog doorgewerkt en opdracht helemaal afgemaakt |
+| Tu 3 Mar 2026 | 14:00-15:00 | 1u | Finalize M&T-3a | A2, B1, B2, B3, C2 | Door mijn opdracht gelezen, kleine foutjes eruit gehaald. 2de en gelijk laatste versie van m&t ingeleverd |
+| We 4 Mar 2026 | 13:30-15:00 | 1u30m | Stagedag 4 | A2 | Les over Ethiek, normen, waarden en deugden |   
+| We 4 Mar 2026 | 16:00-18:15 | 2u15m | Work on M&T-3a | B1, B2, B3, C2 | Predictions maken voor jochem | 
+| We 4 Mar 2026 | 19:30-20:15 | 45m | Finalize M&T-3a | C2 | Laatste stijl dingetjes, conclusies, nawoord | 
+| We 4 Mar 2026 | 22:00-22:15 | 15m | Finalize M&T-3a | C2 | Conclusie beetje aanpassen |
+| Th 5 Mar 2026 | 12:00-13:45 | 1u45m | M&T Les 8 | - | RL les 1 - Introductie over Reinforcement Learning. Erg Globaal |
+| Su 8 Mar 2026 | 12:00-13:00 | 1u | Work on M&T-3b | A2, B2 | Slides les 8 begrijpen. Doorgenomen tot en met slide "Praktische Implementatie" |
 
 Week 5: 32u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
@@ -89,5 +89,9 @@ Week 5: 32u30m
 | Su 15 Mar 2026 | 13:30-17:30 | 4u | Work on PvA | A2, B1, D2 | Finished Requirements, proofread first 3 chapters and made minor adjustments, researched suitable datasets, compared and chose a dataset and wrote ch. 5 data,  |
 | Su 15 Mar 2026 | 19:30-22:30 | 3u | Work on PvA | B2, C2, D2 | Wrote chapters 6, 7, 8, 9. Only need to write chapters 10 and 11 and proofread everything. |
 
+Week 6: 00u00m
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| Mo 16 Mar 2026 | 10:30-... | ... | Work on PvA | D2, D3 | ... |
 
 </div>
