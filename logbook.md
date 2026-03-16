@@ -89,9 +89,9 @@ Week 5: 32u30m
 | Su 15 Mar 2026 | 13:30-17:30 | 4u | Work on PvA | A2, B1, D2 | Finished Requirements, proofread first 3 chapters and made minor adjustments, researched suitable datasets, compared and chose a dataset and wrote ch. 5 data,  |
 | Su 15 Mar 2026 | 19:30-22:30 | 3u | Work on PvA | B2, C2, D2 | Wrote chapters 6, 7, 8, 9. Only need to write chapters 10 and 11 and proofread everything. |
 
-Week 6: 00u00m
+Week 6: 01u00m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| Mo 16 Mar 2026 | 10:30-... | ... | Work on PvA | D2, D3 | ... |
+| Mo 16 Mar 2026 | 10:30-11:30 | D2 | Work on PvA | D2, D3 | Wrote Chapter 10 and checked all sources |
 
 </div>
