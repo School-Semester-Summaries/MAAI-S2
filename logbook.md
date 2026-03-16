@@ -89,11 +89,13 @@ Week 5: 32u30m
 | Su 15 Mar 2026 | 13:30-17:30 | 4u | Work on PvA | A2, B1, D2 | Finished Requirements, proofread first 3 chapters and made minor adjustments, researched suitable datasets, compared and chose a dataset and wrote ch. 5 data,  |
 | Su 15 Mar 2026 | 19:30-22:30 | 3u | Work on PvA | B2, C2, D2 | Wrote chapters 6, 7, 8, 9. Only need to write chapters 10 and 11 and proofread everything. |
 
-Week 6: 04u00m
+Week 6: 4u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | Mo 16 Mar 2026 | 10:30-11:30 | 1u | Work on PvA | D2, D3 | Wrote Chapter 10 and checked all sources |
 | Mo 16 Mar 2026 | 12:00-13:00 | 1u | M&T Les 11 | - | Didn't understand anything decided to buy a statistics book |
-| Mo 16 Mar 2026 | 13:45-15:45 | 2u | Work on PvA | D2 | Proofread Chapters 4-10, give myself feedback in the form of comments, implement my own feedback. Write asbatrct, update title page, deliver pva. |
+| Mo 16 Mar 2026 | 13:45-15:45 | 2u | Finalize & Deliver PvA | D2 | Proofread Chapters 4-10, give myself feedback in the form of comments, implement my own feedback. Write asbatrct, update title page, deliver pva. |
+| Mo 16 Mar 2026 | 16:30-17:00 | 30m | Finalize & Deliver PvA | D2 | Fix minor mistake on frontpage pva. Initialize GitLab |
+
 
 </div>
