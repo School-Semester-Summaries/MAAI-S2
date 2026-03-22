@@ -89,7 +89,7 @@ Week 5: 32u30m
 | Su 15 Mar 2026 | 13:30-17:30 | 4u | Work on PvA | A2, B1, D2 | Finished Requirements, proofread first 3 chapters and made minor adjustments, researched suitable datasets, compared and chose a dataset and wrote ch. 5 data,  |
 | Su 15 Mar 2026 | 19:30-22:30 | 3u | Work on PvA | B2, C2, D2 | Wrote chapters 6, 7, 8, 9. Only need to write chapters 10 and 11 and proofread everything. |
 
-Week 6: 7u15m
+Week 6: 7u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | Mo 16 Mar 2026 | 10:30-11:30 | 1u | Work on PvA | D2, D3 | Wrote Chapter 10 and checked all sources |
@@ -98,6 +98,6 @@ Week 6: 7u15m
 | Mo 16 Mar 2026 | 16:30-17:00 | 30m | Finalize & Deliver PvA | D2 | Fix minor mistake on frontpage pva. Initialize GitLab |
 | Mo 16 Mar 2026 | 22:00-22:15 | 15m | Update GitLab | D1 | ING en ABN-AMRO Presentatie aantekeningen toegevoegd en GenAI stukje geüpdate in GitLab |
 | Th 19 Mar 2026 | 13:15-15:00 | 1u45m | Voortgangs Gesprek | D1 | Voortgangsgesprek met Michiel voorbereid d.m.v. het invullne van het formulier. tussen 14:00-14:35 het gesprek gehad. Daarna nog het formulier uitgebreider ingevuld en deze opnieuw ingediend en github geüpdate |
-| Su 22 Mar 2026 | 11:45-12:30 | 45m | Presentatie Maken | A2, A4, C?, D2, D3 | ... |
+| Su 22 Mar 2026 | 11:45-12:30 | 1u | Presentatie Maken | A2, A4, C1, D2, D3 | Werken aan presentatie voor ethic peer review |
 
 </div>
