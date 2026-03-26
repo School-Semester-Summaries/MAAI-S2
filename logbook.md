@@ -101,7 +101,7 @@ Week 6: 7u30m
 | Su 22 Mar 2026 | 11:45-12:45 | 1u | Presentatie Maken | A2, A4, C1, D2, D3 | Werken aan presentatie voor ethic peer review |
 
 
-Week 7: 6um
+Week 7: 6u30m
 | Mo 23 Mar 2026 | 07:45 - 08:30 | 45m | Presentatie Afronden | A2, A4, C1 | Presentatie afgemaakt en voorbereid voor ethics peer review |
-| We 25 Mar 2026 | 14:30 - 19:45 | 5u15m | RL bijspijkeren | B2 | Frozen-Lake oefenopdracht opgelost door middel van een q-table. 4x4, 8x8, 16x16, 32x32, 64x64 opgelost |
+| We 25 Mar 2026 | 14:30 - 20:15 | 5u45m | RL bijspijkeren | B2 | Frozen-Lake oefenopdracht opgelost door middel van een q-table. 4x4, 8x8, 16x16, 32x32, 64x64 opgelost. 128x128 geprobeerd maar niet gelukt |
 </div>
