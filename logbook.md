@@ -108,4 +108,13 @@ Week 7: 10u15m
 | We 25 Mar 2026 | 14:30 - 20:15 | 5u45m | RL bijspijkeren | B2 | Frozen-Lake oefenopdracht opgelost door middel van een q-table. 4x4, 8x8, 16x16, 32x32, 64x64 opgelost. 128x128 geprobeerd maar niet gelukt |
 | Do 26 Mar 2026 | 13:45 - 17:30 | 3u45m | RL bijspijkeren | B2 | Frozen Lake opdracht 128x128 opgelost met Q-Table. Notebook geupload. Volgend doel is formeel q-learning |
 
+Week 8: xx:xx
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| Mo 30 Mar 2026 | 12:00 - 12:30 | 30m | Vakspreekuur M&T | A2, B2, B3, C2 | Vragen stellen over M&T-3b |
+| Wo 1 Apr 2026 | ??-?? (kijk whatsapp furkan) | ? | Work on M&T-3b | A2, x? | Begin maken aan requirements opstellen |
+| Do 2 Apr 2026 | 13:30-14:30 | 1u | Feedback PvA | D1 | Feedback op PvA doornemen en bespreken met Michiel |
+
+
+
 </div>
