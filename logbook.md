@@ -114,6 +114,9 @@ Week 8: xx:xx
 | Mo 30 Mar 2026 | 12:00 - 12:30 | 30m | Vakspreekuur M&T | A2, B2, B3, C2 | Vragen stellen over M&T-3b |
 | Wo 1 Apr 2026 | ??-?? (kijk whatsapp furkan) | ? | Work on M&T-3b | A2, x? | Begin maken aan requirements opstellen |
 | Do 2 Apr 2026 | 13:30-14:30 | 1u | Feedback PvA | D1 | Feedback op PvA doornemen en bespreken met Michiel |
+| Do 2 Apr 2026 | 16:00-17:30 | 1u30m | Work on M&T-3b | B2 | Begin maken aan algoritmes vergelijken |
+| Do 2 Apr 2026 | x | x | Work on M&T-3b | B2 | Verder met algoritmes vergelijken |
+
 
 
 
