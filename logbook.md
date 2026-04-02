@@ -115,7 +115,7 @@ Week 8: xx:xx
 | Wo 1 Apr 2026 | ??-?? (kijk whatsapp furkan) | ? | Work on M&T-3b | A2, x? | Begin maken aan requirements opstellen |
 | Do 2 Apr 2026 | 13:30-14:30 | 1u | Feedback PvA | D1 | Feedback op PvA doornemen en bespreken met Michiel |
 | Do 2 Apr 2026 | 16:00-17:30 | 1u30m | Work on M&T-3b | B2 | Begin maken aan algoritmes vergelijken |
-| Do 2 Apr 2026 | 19:45-20:45 | 1u | Work on M&T-3b | Work on M&T-3b | B2 | algoritmes vergelijken afmaken |
+| Do 2 Apr 2026 | 19:45-20:45 | 1u | Work on M&T-3b | Work on M&T-3b | A2, B2 | algoritmes vergelijken afmaken, requirements afmaken |
 
 
 
