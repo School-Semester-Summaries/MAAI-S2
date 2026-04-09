@@ -124,7 +124,7 @@ Week 9: 3u30m
 | Tu 7 Apr 2026 | 14:00-14:45 | 45m | Meeting with Kees | D1 | Together read through the feedback on the PvA |
 | We 8 Apr 2026 | 15:00-16:00 | 1u | Work on M&T-3b | B2, C2 | Do research on RL on stable-baselines and spinning up with ai |
 | Th 9 Apr 2026 | 12:00-15:00 | 3u | Work on M&T-3b | A2, B2 | Verantwoorden welk algoritme geschikt is |
-| Th 9 Apr 2026 | 16:00 | ? | Work on M&T-3b | B3 | Beginnen met modelleren |
+| Th 9 Apr 2026 | 16:00- | ? | Work on M&T-3b | B3 | Beginnen met modelleren, eerste iteratie staat, 2de iteratie? |
 
 
 
