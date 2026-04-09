@@ -117,11 +117,14 @@ Week 8: 6u30m
 | Do 2 Apr 2026 | 16:00-17:30 | 1u30m | Work on M&T-3b | B2 | Begin maken aan algoritmes vergelijken |
 | Do 2 Apr 2026 | 19:45-20:45 | 1u | Work on M&T-3b | Work on M&T-3b | A2, B2 | algoritmes vergelijken afmaken, requirements afmaken |
 
-Week 9: 2u
+Week 9: 3u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| Tu 7 Apr 2026 | 11:45-12:45 | 1u | Work on M&T-3b | B2, B3 | Tried to setup an RL environment. Going to start all over next time, start with how to even research RL. |
+| Tu 7 Apr 2026 | 11:45-13:30 | 1u | Work on M&T-3b | B2, B3 | Tried to setup an RL environment. Going to start all over next time, start with how to even research RL. |
+| Tu 7 Apr 2026 | 14:00-14:45 | 45m | Meeting with Kees | D1 | Together read through the feedback on the PvA |
 | We 8 Apr 2026 | 15:00-16:00 | 1u | Work on M&T-3b | B2, C2 | Do research on RL on stable-baselines and spinning up with ai |
+| Th 9 Apr 2026 | 12:00- | ? | ? | ? | ? |
+
 
 
 
