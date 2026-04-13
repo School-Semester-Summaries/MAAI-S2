@@ -121,10 +121,15 @@ Week 9: 17u30m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | Tu 7 Apr 2026 | 11:45-13:30 | 1u | Work on M&T-3b | B2, B3 | Tried to setup an RL environment. Going to start all over next time, start with how to even research RL. |
-| Tu 7 Apr 2026 | 14:00-14:45 | 45m | Meeting with Kees | D1 | Together read through the feedback on the PvA |
+| Tu 7 Apr 2026 | 14:00-14:45 | 45m | Meeting with Kees | D1 | Together read through the feedback on the PvA. I wrote down all the feedback i got. |
 | We 8 Apr 2026 | 15:00-16:00 | 1u | Work on M&T-3b | B2, C2 | Do research on RL on stable-baselines and spinning up with ai |
 | Th 9 Apr 2026 | 12:00-15:00 | 3u | Work on M&T-3b | A2, B2 | Verantwoorden welk algoritme geschikt is |
 | Th 9 Apr 2026 | 16:00-03:45 | 11u45m | Work on M&T-3b | B3 | Beginnen met modelleren, eerste iteratie staat, 2de iteratie staat, notebook staat, ingeleverd |
+
+Week 10: 0h0m
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| Mo 13 Apr 2026 | 13:00-? | ? | ? | D1 | Implement all the feedback |
 
 
 
