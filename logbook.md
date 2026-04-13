@@ -129,7 +129,7 @@ Week 9: 17u30m
 Week 10: 0h0m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
-| Mo 13 Apr 2026 | 13:00-? | ? | ? | D1 | Implement all the feedback |
+| Mo 13 Apr 2026 | 13:00-13:15 | 15m | Feedback omzetten in taken | D1 | Alle feedback die ik heb gekregen van Michiel en Kees omgezet in kleinere taken [#1](https://github.com/School-Semester-Summaries/MAAI-S2/issues/1) |
 
 
 
