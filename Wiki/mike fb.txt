@@ -1,0 +1,75 @@
+1.1 wat is omvang? wat betekent dat?
+-> hoeveel geld gaat er om in ML (gebruik ABN AMRO bron), beeld scheppen bij hoe groot het probleem is. Hoeveel mensen werken er aan bij x bank. schept een idee hoeveel banken ermee bezig zijn en hoe groot het probleem daadwerkelijk is.
+-> hoeveel geld gaat erin om. miss ook dat het te maken heeft met de wwft. idee schtsen van hoe groot het probleem is. urgentie duidelijk maken, ook een wettelijke verplichting. het is ook een heel groot probleem zie abn amro presentatie.
+
+1.1.3 ja, nederlandse banken gebruiken al SVL, maar wil ik dat hiet al zeggen omdat de focus hier is "limitations of traditional"
+-> hoeft hier inderdaad niet, michiel is eens.
+-> er staat limitaties van beperkingen van Tradi. aml methods, misschien kan ik eerst in 1.1.2 zeggen dat deze methoden worden gebruikt voordat we naar de limitaties van x gaan. eerest introduceren.
+
+1.2.1 staat er al
+-> prima
+-> prima
+
+1.2.2 .
+-> niks
+-> ontbreekt een punt
+
+1.2.3 ?
+-> wij snappen het allebei niet, kees contacten
+-> SOTA, vermeld dat dit specifiek gaat over AML Detectie en eventueel over SVL gaat. Probeer recentere bronnen te vermelden en meerdere bronnen die aangeven wat de SOTA is. probleem is dat er nu 1 bron is uit 2019 die de algemene SOTA weergeeft.
+
+
+1.5 eens?
+-> synhtetic mag weg. data kan weg kijk maar even naar, financial transactions
+-> synthetisch kan weg. Want ik wist van te voren niet eens dat ik synthetisch ging gebruiken dit is naar boven gekomen tijdens onderzoeken. titel mag wel synthetisch bevatten. Titel != hoofdvraag.
+
+dv2. weglaten prima?
+-> michiel zou hem houden, misschine herschijven naar possibilieits en limitations of the dataset. eruit halen.
+-> hoef je niet expliciet te benoemen want dit behoort tot het normale proces. het is vanzelfsprekend.
+
+DV3.
+-> on thsi data kan weg voegt niks toe.
+
+algemeen
+-> geef de lezer context over waar elk hoofdstuk over gaat als dit niet vanzelf sprekend is. voorbeeld: ik moet uitleggen dat H2 een deepdive is op mijn geidentificeerde GAP. dat zou in de paper zelf moeten staan.
+
+2. deed ik al in h1 toch?
+-> daar gaat de introductie al over. michiel mee eens, even kees contacten.
+-> zie punt heirboven
+
+H1 & H2 over SOTA
+-> combineer competitie en recent dev naar -> SOTA in SVL. in H2 verander kop naam ook naar SOTA rL
+
+2.1 wat wordt hier verwacht?
+-> SL has been described in Ch1 etc. evt, vraag kees beredenering wrm die dit zegt en of het niet al genoeg is.
+
+2.1.1 de toepassing van DQN?
+-> evt aankaarten dat het gaat over AML.
+-> benoem expliciet dat dit aansluit op mijn casus. voor welke situatie hebben zij precies toegepast. welke subtak wordt er op gefocust binnen 6 en 17. benoem dit.
+
+2.2 prima
+-> 
+
+3.3 hier heb ik hem al vaak gequote maar hier pas de presentatie introduceren? moet ik de presentatie uberhaupt toelichten? het is toch een bron?
+-> kees vragen waarom die dit comment
+-> at HVA toeveogen, link checken is kapot
+-> kijk ook naar apa richtlijnen
+
+3.4 SV en RL maar kan ik nogmaals benadrukken
+-> de modellen die ik ga maken
+-> benoem de modellen opnieuw zodat de lezer ze niet hoeft te zoeken
+
+4. vind ik prima, jij ook?
+-> prima
+-> houd h4 en h5 in deze volgorde
+
+5.1 dat kan, hoef ik niet te benoemen toch lijkt op een tip
+
+
+Overig
+-> er is al beschikbare code voor XGBoost beschikbaar
+-> Bij course selector -> Tool Developement for FinTech (binnen master Digital Driven Business DDB)
+
+nog voor mezelf
+- vertel ook dat SAML-D is gekozen wegens laundering type field, kan meerwaarde opleveren aan het project evt met mike bespreken
+- is data wel representatief?
