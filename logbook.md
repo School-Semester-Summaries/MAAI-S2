@@ -130,8 +130,9 @@ Week 10: 1h0m
 | datum | tijd | duur | taak | leeruitkomst | detail |
 |-------|------|------|------|--------------|--------|
 | Mo 13 Apr 2026 | 13:00-13:15 | 15m | Feedback omzetten in taken | D1 | Alle feedback die ik heb gekregen van Michiel en Kees omgezet in kleinere taken [#1](https://github.com/School-Semester-Summaries/MAAI-S2/issues/1) |
-| Mo 13 Apr 2026 | 13:15-13:30 | 15m | Feedback toepassen | D1 | Paar kleine feedback puntjes toegepast |
-| We 15 Apr 2026 | 13:00-13:30 | 30m | Feedback toepassen | D1 | Paar feedback puntjes toegepast |
+| Mo 13 Apr 2026 | 13:15-13:30 | 15m | Feedback toepassen PvA | D1 | Paar kleine feedback puntjes toegepast |
+| We 15 Apr 2026 | 13:00-13:30 | 30m | Feedback toepassen PvA | D1 | Paar feedback puntjes toegepast |
+| Th 16 Apr 2026 | 14:15-? | ? | Feedback Toepassen PvA | D1 | Alle resterende feedback punten toepassen | 
 
 
 
