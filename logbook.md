@@ -135,6 +135,11 @@ Week 10: 3u30m
 | Th 16 Apr 2026 | 14:15-16:30 | 1u15m | Feedback Toepassen PvA | D1 | Paar feedback punten toepassen | 
 | Su 19 Apr 2026 | 12:30-13:45 | 1u15m | Feedback Toepassen PvA | D1 | De laatste paar feedback punten toepassen en document inleveren | 
 
+Week 11: -
+| datum | tijd | duur | taak | leeruitkomst | detail |
+|-------|------|------|------|--------------|--------|
+| We 22 Apr 2026 | 12:30- | - | GitLab Updaten | - | - | 
+
 
 
 
