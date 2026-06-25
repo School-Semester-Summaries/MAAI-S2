@@ -1,0 +1,22 @@
+Meeting met Michiel 06/05/2026 10:00 - 
+
+Stakeholders
+- er zijn geen echte stakeholders maar die mensen van abn en ing zijn prima
+- kwaliteitscriteria die van belang zijn voor de stakeholders opzoeken en op basis daarvan een testplan opstellen
+- je zou resultaten kunnen presenteren aan stakeholder
+
+Beoordelaars
+- Kees van Montfort
+- iemand van de HvA met een PhD
+
+Level of Automation
+- globaal wat er wordt gebruikt in de wereld van AML in plaats van wat ik toepas in mijn prototype
+
+C1
+- treedt hierover in gesprek met vakgenoten -> Discussie sectie
+
+C2:
+- welke is robuster in het algemeen (aangezien ik maar 1 dataset ga gebruijen)
+
+Eventuele Oplossing Verzinnen
+- dashboard ofzo?

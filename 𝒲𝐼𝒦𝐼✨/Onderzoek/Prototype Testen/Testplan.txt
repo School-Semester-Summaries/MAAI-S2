@@ -1,0 +1,35 @@
+Taak1: Open een flagged transaction en probeer zo goed mogelijk te begrijpen waarom deze precies geflagged is. Report dan deze case en maak een schatting welke laundering patroon het zou kunnen zijn
+
+1a. Transparency
+- Heb je een disclaimer gezien?
+- Wat is je bijgebleven van de disclaimer?
+- Zou je daar iets aan veranderen?
+
+1b. Explainability
+- De weergeven informatie, was die duidelijk en begrijpelijk?
+- Kon je de volledige overzicht vinden?
+- Is er iets wat niet duidelijk is in het overzicht?
+
+Taak2: Open het configuratie menu en breng de threshold naar een waarde zodat de aantal transacties vandaag beoordeelbaar is door het team.
+
+2a. Feedback en Control
+- hoe ben je tot deze threshold gekomen
+- wat is er op je scherm veranderd
+- Begrijp je alle vertoonde statistieken?
+
+Taak3: Probeer logischerwijs de transacties zo te filteren met de sliders dat er 0 transacties geflagged worden. Zorg er daarna voor dat er weer transacties geflagged worden
+
+3a Error Handling
+- Is het duidelijk waarom er geen transacties zijn geflagged?
+- Is het duidelijk hoe je dit probleem oplost?
+- Heeft het error bericht je hierbij geholpen
+
+
+Taak4: Open een flagged transaction en vergelijk hoe beide modellen de transactie scoren. Report deze case en maak een schatting wat het patroon is
+
+4a. Safety
+- Viel je iets op toen je switchte van model?
+- Heeft dit bericht veranderd hoe je omgaat met de beoordelingen van de DQN
+
+4b. Privacy
+- Hoe kijk je ernaar dat account IDs niet volledig zijn weergeven?

@@ -1,0 +1,7 @@
+Overige Feedback nog
+Q1: Vind je de lage percentages interesant? zou het erg zijn als deze niet getoond worden?
+A1: Bijna alle variabelen die getoond worden zijn interessant. Ook de variabelen met lage percentage bijdrages. hoe meer info hoe beter. maar sommige features hoeven er inderdaad niet tussen te staan zoals ID's, die staan al in de tabel.
+
+Opmerking: Ik zou ook graag algemene waarden zien, ik zie hier waarden hoe ver het afwijkt van de standaardverdeling, ik zou deze standaardverdeling willen zien en alle waarden in de verdeling.
+
+Opmerking: De groene kant laat heel veel zien, soms zo veel dat ik blijf scrollen en dat het me teveel wordt.

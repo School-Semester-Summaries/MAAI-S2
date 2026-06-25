@@ -1,0 +1,28 @@
+Taak1 (20m): Open een flagged transaction en probeer zo goed mogelijk te begrijpen waarom deze precies geflagged is. Report dan deze case en maak een schatting welke laundering patroon het zou kunnen zijn
+
+1a. Transparency
+- Heb je een disclaimer gezien?
+	- Ja
+- Wat is je bijgebleven van de disclaimer?
+	- Testfase voor een project
+- Zou je daar iets aan veranderen?
+	- Nee
+
+Note:
+- User did not recall the part of the warning that mentioned that the data is synthetic
+
+1b. Explainability
+- De weergeven informatie, was die duidelijk en begrijpelijk?
+	- Ja, maar ik heb een technische achtergrond. Dat terzijde zijn er toch variabelen die niet helemaal duidelijk zijn als fan_out ratio. Wat stelt dit getal voor? een 	  percentage zou beter lezen	
+- Kon je de volledige overzicht vinden?
+	- Ja
+- Is er iets wat niet duidelijk is in het overzicht?
+	- Ik kon ook niet zien wat voor accounts het zijn. Als een account zakelijk is dan zegt dat iets over het account en moet daar anders naar kijken. Hier hebben we 	  die context niet
+
+Overige Notities
+- User Struglede om een transactie in detail te openen maar dit loste die zelf op
+- User wilt in een transactie de optie hebben om de transactie geschiedenis te bekijken van ed sender en de receiver om zo context op te halen. Het model heeft wel context maar de user niet wat het moeilijk maakt om tee peilen of het witwassen is.
+- User kan niet zeker weten of dat ****5678 het zelfde ID is als ****5678
+- User kende gros van de patronen al, maar het zou een goede toevoeging zijn om uitleg van de patronen in de tool bij te voegen.
+- User begreep dat Normal_* patronen betekenen dat het geen witwassen is maar een normale transactie
+- User gaf aan dat bepaalde variabelen zoals variation veel te veel getallen laten zien achter de komma.

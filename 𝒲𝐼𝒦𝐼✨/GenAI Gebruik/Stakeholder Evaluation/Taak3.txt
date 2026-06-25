@@ -1,0 +1,13 @@
+Taak3 (5m): Probeer logischerwijs de transacties zo te filteren met de sliders dat er 0 transacties geflagged worden. Zorg er daarna voor dat er weer transacties geflagged worden
+
+3a Error Handling
+- Is het duidelijk waarom er geen transacties zijn geflagged?\
+	- Ja want niks is hoger dan 100% confident score
+- Is het duidelijk hoe je dit probleem oplost?
+	- Ja de slider terug sliden
+- Heeft het error bericht je hierbij geholpen
+	- Bericht niet gelezen omdat ik al zag dat er 0 transactie geflagged waren.
+
+Note:
+- Vreemd dat the threshold een score is, je zou een percentage verwachten aangezien de confidence in percentage is
+- In de eerste instantie is de threshold niet helemaal duidelijk maar na mate je er een beetje mee speelt wordt de link tussen de confidence percentage duidelijk

@@ -1,0 +1,6 @@
+Content (in chronologische volgorde en welke env ze gebruiken)
+- [Data Exploration and Preperation](./EDA/Data_Exploration_and_Preperation_v1.7.1.ipynb) ~ [art2](./Environments/art2_-_requirements.txt)
+- [XGBoost Notebook](./XGBoost/XGBoost_v9.0.ipynb) ~ [art2](./Environments/art2_-_requirements.txt.txt)
+- [DQN Notebook](./DQN/DQN_v7.0.ipynb) ~ [aml_dqn](./Environments/aml_dqn_-_requirements.txt)
+- [Comparison Notebook](./Comparison/Comparison%20Notebook_v0.1.ipynb) ~ [aml_dqn](./Environments/aml_dqn_-_requirements.txt)
+- [Prototype](./Prototype/) ~ [aml_dqn](./Environments/aml_dqn_-_requirements.txt)

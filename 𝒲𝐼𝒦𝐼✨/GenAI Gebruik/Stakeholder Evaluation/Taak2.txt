@@ -1,0 +1,12 @@
+Taak2 (5m): Open het configuratie menu en breng de threshold naar een waarde zodat de aantal transacties vandaag beoordeelbaar is door het team.
+
+2a. Feedback en Control
+- hoe ben je tot deze threshold gekomen
+	- Uitegerekend: we  hebben ongeveer 5 man, stel dat een transactie onderzoeken ongeveer 30m duurt, je werkt 8 uur, 16 transactie per dag, 16x5=80
+- wat is er op je scherm veranderd
+	- De aantal transacties die getoond worden
+- Begrijp je alle vertoonde statistieken?
+	- Ja, maar deze statistieken (Recall, Precision, FP per TP) verklappen eigenlijk informatie die je niet mag weten.
+
+Overige Notities:
+- Prototype error wanner er met de threshold gespeeld wordt

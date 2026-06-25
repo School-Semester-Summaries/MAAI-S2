@@ -1,0 +1,1 @@
+Ik heb mijn aanpak voor de 70% deadline op een rijtje gezet en daarbij de grootste problemen gemarkeerd. Deze heb ik met mijn coach besproken en hij heeft me feedback gegeven.

@@ -1,0 +1,19 @@
+Taak4: Open een flagged transaction en vergelijk hoe beide modellen de transactie scoren. Report deze case en maak een schatting wat het patroon is
+
+4a. Safety
+- Viel je iets op toen je switchte van model?
+	- User kon de modellen optie niet vinden en is hierbij geholpen
+	- Ik heb via de ene model de transactie onder de loep genomen en toen geswitcht van model, maar ineens was ik bij een andere transactie
+	- de melding is de user opgevallen maar niet gelezen
+	- DQN bevat erg veel ruis
+- Heeft dit bericht veranderd hoe je omgaat met de beoordelingen van de DQN
+	- n/a
+
+4b. Privacy
+- Hoe kijk je ernaar dat account IDs niet volledig zijn weergeven?
+	- wel goed maar toch jammer want zo kan ik niet of dat de accounts gelijk zijn over meerdere transacties. Intern zou het sowieso geen probleem moeten zijn om de IDs 	  te weergeven
+
+Overige Notities:
+- DQN laat info zien die niet van belang is. bijvoorbeeld de transactie location is UK maar ik zie ook de bijdrages van bank locations van andere locaties die niet van belang zijn in deze transactie wat verwarrend is.
+- Het model geeft aan dat dit een laundering case is. Ik zou graag willen zien op basis van welke andere transacties die gebasseerd wordt? (bijvoorbeeld stel dat het een fan_in is wil de user alle transacties zien die samen de fan_in zijn)
+ 
