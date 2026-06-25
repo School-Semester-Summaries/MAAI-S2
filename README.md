@@ -1,11 +1,6 @@
-> # Important: This branch has been updated after the deadline. If this is not allowed refer to the "[Deadline Branch](https://gitlab.fdmci.hva.nl/maai/2025-2026-sem2/centre-for-financial-innovation/kaan-gogcay-maai-portfolio/-/tree/Deadline?ref_type=heads)"
+ Master Applied AI - Afstudeer Portfolio Template
 
-
-
-
-# Master Applied AI - Afstudeer Portfolio Template
-
-- **Student:** Kaan Gogcay 
+- **Student:** Kaan G. 
 - **Applied AI Lab:** Centre for Financial Innovation  
 - **Afstudeerbegeleider (Lab):** Kees van Montfort 
 - **Docentbegeleider:** Michiel Bontebal
