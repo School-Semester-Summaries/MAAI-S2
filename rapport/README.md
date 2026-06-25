@@ -1,7 +1,8 @@
 ### Content
-- [Master_Thesis_KG_v0.1.pdf](./Master_Thesis_KG_v0.1.pdf) ~ 70% Versie
-- [Master_Thesis_KG_v0.2.pdf](./Master_Thesis_KG_v0_2.pdf) ~ 70% Versie maar ik heb mezelf feedback gegeven en toegepast op H1: (Mijn eigen feedback document - [Zelf Feedback geven op Thesis H1](../𝒲𝐼𝒦𝐼✨/Feedback%20en%20Iteratie/Thesis/Master_Thesis_KG_v0.1%20-%20Feedback%20H1%20-%20Kaan%20Gogcay.pdf))
-- [Master_Thesis_KG_v1.9.pdf](./Master_Thesis_KG_v1.9.pdf) ~ 100% Versie: 
+- ~~[Master_Thesis_KG_v0.1.pdf](./Master_Thesis_KG_v0.1.pdf) ~ 70% Versie~~
+- ~~[Master_Thesis_KG_v0.2.pdf](./Master_Thesis_KG_v0_2.pdf) ~ 70% Versie maar ik heb mezelf feedback gegeven en toegepast op H1: (Mijn eigen feedback document - [Zelf Feedback geven op Thesis H1](../𝒲𝐼𝒦𝐼✨/Feedback%20en%20Iteratie/Thesis/Master_Thesis_KG_v0.1%20-%20Feedback%20H1%20-%20Kaan%20Gogcay.pdf))~~
+- ~~[Master_Thesis_KG_v1.9.pdf](./Master_Thesis_KG_v1.9.pdf) ~ 100% Versie:~~
+- [Master_Thesis_Filtered.pdf](./Master_Thesis_Filtered.pdf) ~ No insights about DLL
 
 ### Rapportstructuur
 100% Versie Rapportstructuur en waar de content van het rapport uit is ontstaan. Dit kan betekenen dat de content is geëvalueerd in de text die je ziet in de thesis, maar het kan ook betekenen dat de content 1 op 1 is gekopieërd naar de thesis. Als de text uit de thesis niet is ontstaan uit bestaande content is het direct in de thesis geschreven. Eerdere versies van het rapport en het pva zijn buiten beschouwing gelaten omdat alles is geËvalueerd uit eerdere versies van het rapport en pva.
