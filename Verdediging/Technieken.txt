@@ -1,0 +1,40 @@
+leg alle technieken uit die je hebt gebruikt.
+- Gradient Boosting
+- XGBoost
+- Class imbalance
+- scale_pos_weight
+- AUPRC
+- Precision-Recall Curve
+- AUC-ROC
+- One-hot encoding
+- Standardisatie / z-score scaling
+- Account-level aggregates
+- pair_tx_count
+- Markov Decision Process (MDP)
+- ICMDP Framework
+- Bellman equation
+- Q-learning
+- Deep Q-Network (DQN)
+- On-policy vs Off-policy
+- Experience Replay / Replay Buffer
+- Target Network
+- Epsilon-greedy exploration
+- Overfitting
+- Early stopping
+- Dropout
+- Bayesian Optimisation
+- SHAP
+- Shapley waarden
+- TreeExplainer
+- KernelExplainer
+- LIME
+- Permutation Importance
+
+
+MAAK DIT TABEL
+
+Eerlijk antwoord: meer algoritmes zouden technisch kunnen werken dan alleen DQN — maar niet allemaal even logisch. Hier is de tabel, gebaseerd op jouw probleem (discrete actieruimte, single-step episode per transactie, model-free, geen omgevingsdynamiek om te leren).
+
+Eerlijke samenvatting, kort om te onthouden:
+DQN was niet de enige logische keuze — C51, QR-DQN (beide Q-learning varianten) en zelfs PPO/TRPO zouden technisch ook hadden gewerkt op jouw discrete, single-step probleem. Wat écht afvalt zijn de model-based methoden (geen omgevingsdynamiek om te leren), de continue-actie methoden zoals DDPG/TD3/SAC (jouw actieruimte is binair), en HER (ontworpen voor multi-step, sparse-reward taken, niet voor losse classificaties).
+Dus als een examinator doorvraagt "waarom dan niet C51 of PPO?", is het eerlijke antwoord: dat had ook gekund, maar je koos DQN specifiek omdat (1) beide relevante RL-papers in dit domein DQN gebruiken — dat geeft je een directe vergelijkingsbasis voor je MDP-formulering en architectuur, en (2) DQN's off-policy aard met replay buffer past goed bij een statische, niet-sequentiële dataset als SAML-D, waar je niet per se "vers" hoeft te leren van een actief veranderende omgeving zoals bij on-policy methoden (PPO/TRPO) nodig zou zijn.
